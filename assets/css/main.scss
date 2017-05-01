@@ -5,3 +5,7 @@
 @charset "utf-8";
 
 @import "minimal-mistakes";
+@import "vendor/bigfoot/bigfoot-variables.scss";
+@import "vendor/bigfoot/bigfoot-number.scss";
+@import "vendor/bigfoot/bigfoot-mixins.scss";
+@import "vendor/bigfoot/bigfoot-popover.scss";

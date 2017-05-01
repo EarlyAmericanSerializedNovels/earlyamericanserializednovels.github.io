@@ -1,0 +1,264 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.4.1 by Michael Rose
+  Copyright 2017 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>AnchorJS  - Early American Serialized Novels</title>
+
+
+
+
+<meta name="description" content="A collection made by ISU’s English 6625 seminar">
+
+
+
+
+<meta name="author" content="Early American Serialized Novels">
+
+<meta property="og:locale" content="en">
+<meta property="og:site_name" content="Early American Serialized Novels">
+<meta property="og:title" content="AnchorJS ">
+
+
+  <link rel="canonical" href="https://earlyamericanserializednovels.github.io/anchor-js/">
+  <meta property="og:url" content="https://earlyamericanserializednovels.github.io/anchor-js/">
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "Early American Serialized Novels",
+      "url" : "https://earlyamericanserializednovels.github.io",
+      "sameAs" : null
+    }
+  </script>
+
+
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="https://earlyamericanserializednovels.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Early American Serialized Novels Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="https://earlyamericanserializednovels.github.io/assets/css/main.css">
+
+<!--[if lte IE 9]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+<meta http-equiv="cleartype" content="on">
+
+<script src="https://earlyamericanserializednovels.github.io/assets/js/main.min.js"></script>
+
+<script type="text/javascript" src="/assets/anchor.js "></script>
+<script type="text/javascript">
+   anchors.options = { visible: 'touch', icon: '#'};
+   anchors.add('h3, h4, h5, h6');
+</script>
+
+<script type="text/javascript" src="/assets/bigfoot.min.js"></script>
+<script type="text/javascript">
+   $.bigfoot({actionOriginalFN: "ignore", numberResetSelector: "article", positionContent: "true"}); 
+</script>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+  </head>
+
+  <body class="layout--default">
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    <div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <a class="site-title" href="https://earlyamericanserializednovels.github.io/">Early American Serialized Novels</a>
+        <ul class="visible-links">
+          
+            
+            <li class="masthead__menu-item"><a href="https://earlyamericanserializednovels.github.io/about/">About</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://earlyamericanserializednovels.github.io/novels/">Novels</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://earlyamericanserializednovels.github.io/timeline/">Timeline</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://earlyamericanserializednovels.github.io/teaching/">Teaching</a></li>
+          
+        </ul>
+        <button><div class="navicon"></div></button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    <h1 id="anchorjs-">AnchorJS <a href="https://travis-ci.org/bryanbraun/anchorjs"><img src="https://img.shields.io/travis/bryanbraun/anchorjs/master.svg?style=flat" alt="Build Status" /></a></h1>
+
+<p>A JavaScript utility for adding deep anchor links (<a href="http://ux.stackexchange.com/q/36304/33248">like these</a>) to existing page content. AnchorJS is lightweight, accessible, and has no dependencies.</p>
+
+<p><strong><a href="http://bryanbraun.github.io/anchorjs#examples">See Live Examples in the Documentation</a>.</strong></p>
+
+<p><img src="http://bryanbraun.com/sites/default/files/anchoring-links_0.png" alt="Anchoring links" /></p>
+
+<h2 id="installation">Installation</h2>
+
+<p>Download AnchorJS using npm,</p>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>npm install anchor-js
+</code></pre>
+</div>
+
+<p>or bower:</p>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>bower install anchor-js --save-dev
+</code></pre>
+</div>
+
+<p>(or just <a href="https://github.com/bryanbraun/anchorjs/releases">download it from github</a>).</p>
+
+<p>Then include the anchor.js file (or anchor.min.js) in your webpage.</p>
+
+<div class="language-html highlighter-rouge"><pre class="highlight"><code><span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"anchor.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
+</code></pre>
+</div>
+
+<p>You could also include it via a CDN like <a href="https://cdnjs.com/libraries/anchor-js">CDNJS</a> or <a href="http://www.jsdelivr.com/projects/anchorjs">jsDelivr</a>.</p>
+
+<p>##Usage
+See <strong><a href="http://bryanbraun.github.io/anchorjs#basic-usage">the Documentation</a></strong> for detailed instructions.</p>
+
+<h2 id="compatibility">Compatibility</h2>
+<p>Currently Supports: IE9+ and modern browsers</p>
+
+<h2 id="contributing-">Contributing <a href="https://david-dm.org/bryanbraun/anchorjs#info=devDependencies"><img src="https://img.shields.io/david/dev/bryanbraun/anchorjs.svg?style=flat" alt="devDependency Status" /></a></h2>
+<p>To contribute:</p>
+
+<ol>
+  <li>Fork/Clone the repo.</li>
+  <li>Make your changes.</li>
+  <li>Write tests as needed.</li>
+  <li>Run tests locally to confirm everything is working:
+    <ul>
+      <li>Install phantomjs: <code class="highlighter-rouge">brew install phantomjs</code></li>
+      <li>Install test modules: Run <code class="highlighter-rouge">npm install</code></li>
+      <li>Run all tests: <code class="highlighter-rouge">npm test</code></li>
+    </ul>
+  </li>
+  <li>Minify the code: <code class="highlighter-rouge">npm run release</code></li>
+  <li>Submit a Pull Request.</li>
+</ol>
+
+<h2 id="license">License</h2>
+<p>Licensed with the <a href="http://opensource.org/licenses/MIT">MIT License</a>.</p>
+
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+    
+    
+    
+    
+    <li><a href="https://earlyamericanserializednovels.github.io/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2017 Early American Serialized Novels. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+      </footer>
+    </div>
+
+    <script src="https://earlyamericanserializednovels.github.io/assets/js/main.min.js"></script>
+
+<script type="text/javascript" src="/assets/anchor.js "></script>
+<script type="text/javascript">
+   anchors.options = { visible: 'touch', icon: '#'};
+   anchors.add('h3, h4, h5, h6');
+</script>
+
+<script type="text/javascript" src="/assets/bigfoot.min.js"></script>
+<script type="text/javascript">
+   $.bigfoot({actionOriginalFN: "ignore", numberResetSelector: "article", positionContent: "true"}); 
+</script>
+
+
+
+
+  </body>
+</html>

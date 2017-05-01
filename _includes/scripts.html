@@ -1,4 +1,15 @@
 <script src="{{ '/assets/js/main.min.js' | absolute_url }}"></script>
 
+<script type="text/javascript" src="/assets/anchor.js "></script>
+<script type="text/javascript">
+   anchors.options = { visible: 'touch', icon: '#'};
+   anchors.add('h3, h4, h5, h6');
+</script>
+
+<script type="text/javascript" src="/assets/bigfoot.min.js"></script>
+<script type="text/javascript">
+   $.bigfoot({actionOriginalFN: "ignore", numberResetSelector: "article", positionContent: "true"}); 
+</script>
+
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}

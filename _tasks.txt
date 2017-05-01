@@ -1,0 +1,46 @@
+# tasks still to do  
+
+- [ ] update site content  
+  - [ ] landing page description of collection  
+  - [ ] teaching tools description  
+  - [ ] excerpts per post  
+  - [ ] check paragraph breaks  
+    - [ ] email asking each person to check their own  
+      - [ ] how should they notify me of where breaks should be if incorrect?  
+    - [ ] fix paragraphs in md files  
+
+- [ ] styling  
+  - [ ] css things  
+    - [ ] fix css classes  
+    - [ ] fix css/sass styles  
+    - [ ] Bigfoot.js button styling  
+  - [ ] per post things  
+    - [ ] excerpts  
+    - [ ] reading time  
+    - [ ] remove social share buttons?  
+
+- [ ] DH features  
+  - [ ] add timemapper.js  
+  - [ ] add issues of our teaching magazine  
+
+- [ ] fix mobile view (doesn't work correctly on Safari on iPhone; "teaching" is cut off and menu icon doesn't expand)  
+  - [ ] see if viewport sizes are incorrect  
+  - [ ] contact theme developer as necessary  
+
+- [ ] add README file  
+  - [ ] write contents of README  
+    - [ ] use landing page language  
+    - [ ] add link to web view  
+
+- [ ] create documentation for future site maintenance  
+  - [ ] decide where it will live (inside this repository? in a separate one? would an explanation of the process be useful as a part of the colophon?)
+
+## tasks completed  
+
+- [x] select theme as a group @done  
+  - [x] find & use fallback theme since first choice wouldn't work @done  
+- [x] get theme into working order @done  
+- [x] prep novels @done  
+  - [x] use pandoc on novels @done  
+  - [x] use TextWrangler to fix newlines with find & replace @done  
+- [x] ensure javascript will work in advance of adding DH features @done  

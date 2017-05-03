@@ -12,6 +12,10 @@
         - [ ] how should they notify me of where breaks should be if incorrect?  
       - [ ] fix paragraphs in md files  
     - [ ] clarify in _Foresters_ which footnote numbers are skipped in original  
+  - [ ] organize novels in chosen way  
+    - [x] email everyone asking how they'd prefer novels to be organized @done(2017-05-02)  
+    - [x] test organizing them by date published @done(2017-05-02)  
+    - [ ] re-organize as we decide @waiting  
 
 - [ ] styling  
   - [ ] css things  

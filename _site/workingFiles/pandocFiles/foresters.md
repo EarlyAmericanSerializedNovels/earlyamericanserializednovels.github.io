@@ -1,5 +1,3 @@
-{% include toc %}
-
 ### Preface
 
 *Columbian Magazine* was one of the most successful early American magazines. Mathew Carey, Charles Cist, Thomas Seddon, William Spotswood, and John Trenchard founded it. The first issue of the magazine was published in September of 1786 and the magazine ran until 1792. The editors included the initial founders as well as, at various times, Francis Hopkinson, James Dallas, and an anonymous “society of gentlemen.” It had the largest circulation of eighteenth-century American magazines, with 1,500 subscribers.

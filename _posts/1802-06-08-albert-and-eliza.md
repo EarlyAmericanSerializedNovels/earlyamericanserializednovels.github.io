@@ -4,8 +4,8 @@
 
 *Albert and Eliza,* a novel written by Isaac Mitchell, was serialized in
 the *Political Barometer*, a New York newspaper. Its first installment
-appeared on June 8^th^ 1802, and it was published weekly until July
-13^th^ 1802. The author Mitchell not only wrote novels in the *Political
+appeared on June 8, 1802, and it was published weekly until July
+13, 1802. The author Mitchell not only wrote novels in the *Political
 Barometer* but was also the editor and publisher. Born near Albany, New
 York in 1759, he joined the newspaper business in 1798 in Poughkeepsie,
 New York. Though Mitchell worked with several newspapers, he was
@@ -18,7 +18,7 @@ was renamed to *Political Barometer*. By May of 1805, Buell’s name was
 removed as publisher and editor and Mitchell remained the sole
 proprietor of the newspaper, until 1806.
 
-In its first publication on June 8^th^ 1802, Mitchell and Buel stated
+In its first publication on June 8, 1802, Mitchell and Buel state
 that the paper aims to incorporate both domestic and international
 materials and claims it is open to political discussion from either
 Federalist or Democratic-Republican parties. However, it was clear that

@@ -8,25 +8,20 @@ studied because of its status as a particularly influential periodical
 of the early republic. It was in print for 8 years and had almost 100
 issues. It published accounts of theater performances and travel as well
 as current events and extracts of essays and creative works. The
-publisher was T. and J. Swords of New York, who published two other
+publishers were Thomas and James Swords of New York, who published two other
 Christian journals around the same time and printed bound books as well.
-Thomas and James Swords, the printers and editors, were fairly
-well-known journalists. They drew on the work of the Friendly Club in
-many of this publication’s issues. The *New York Magazine*’s overall
-contents are eclectic and seem to claim a curatorship of the interests
-of the intellectual elite. However, the subscription list reveals a
-varied readership, about half of which were artisans and shopkeepers,
-though public figures like George Washington and John Adams are also
-included. The political leanings of the magazine may help explain the
-appeal to this specific readership.
+The *New York Magazine*’s overall contents are eclectic and seem to claim a 
+curatorship of the interests of the intellectual elite, including George 
+Washington and John Adams. However, the subscription list reveals a varied readership, 
+about half of whom were artisans and shopkeepers.
 
 *The History of Maria Kittle* was first serialized in the *New York
 Magazine* from September 1790 to January 1791, with each update
 appearing monthly for a total of five installments. The magazine also
 published some of Bleecker’s other work, especially poetry; however,
 each piece was submitted by Bleecker’s daughter Margaretta V. Faugeres
-several years after her mother’s death. The magazine publishers, T. and
-J. Swords of New York, went on to publish the *Posthumous Works of Ann
+several years after her mother’s death. T. and
+J. Swords, went on to publish the *Posthumous Works of Ann
 Eliza Bleecker, in Prose and Verse* in bound form in 1793, which
 included *The History of Maria Kittle,* another unfinished historical
 novel called *The History of Henry and Ann*, a collection of poetry and
@@ -35,7 +30,7 @@ immense popularity, *The History of Maria Kittle* was finally
 republished separately in its own volume in 1797 by Elisha Babcock of
 Hartford, Connecticut. There is very little difference between the text
 published in the magazine and stand-alone novel versions of the tale,
-beyond minor editorial revisions. Interestingly, a 19^th^ century New
+beyond minor editorial revisions. Interestingly, a nineteenth-century New
 York women’s magazine called *The Ladies’ Literary Cabinet, Being a
 Repository of Miscellaneous Literary Productions, both Original and
 Selected in Prose and Verse* (1819-1822) republished the novel in serial
@@ -44,11 +39,10 @@ way, and *The History of Maria Kittle* may have appeared in other
 periodicals as well.
 
 *The History of Maria Kittle* is often described as the first captivity
-novel, because it utilizes the captivity narrative form without a solid
-basis on the actual experience of the author or the record of an
-amanuensis. This is ironic given the opening lines of the novel. There
-are claims that the novel is based on the actual experiences of Maria
-Kittle or Kittlehyun, whose family lived in the same region as the
+novel because it utilizes the captivity narrative form without a solid
+basis on actual experience. This is ironic given the opening lines of the
+novel. Thereare claims that the novel is based on the actual experiences 
+of Maria Kittle or Kittlehyun, whose family lived in the same region as the
 Bleeckers, and whose captivity narrative can be corroborated by an
 account with similar detail in another memoir. However, the text of the
 novel emphasizes several other themes independent of historical
@@ -95,12 +89,13 @@ republication. The novel is depicted here as it appeared in the *New
 York Magazine*, its first publication, in order to foster further
 answers to these questions.
 
-As stated earlier, Bleecker’s biography is a significant aspect of most
-interpretations of her novel. She was born Anna Elizabeth Schuyler
-around October 1752 as the sixth child of Margareta Van Wyck and Brandt
-Schuyler, prosperous Dutch merchants and aristocrats of New York City.
-Her father Brandt Schuyler died shortly before she was born, and her
-mother married Anthony Ten Eyck in 1760. Their daughter Susanna is the
+### Biography of Ann Bleeker
+
+Ann Bleeker was born Anna Elizabeth Schuyler around October 1752 as 
+the sixth child of Margareta Van Wyck and BrandtSchuyler, prosperous 
+Dutch merchants and aristocrats of New York City.Her father Brandt 
+Schuyler died shortly before she was born, and her mother married Anthony
+Ten Eyck in 1760. Their daughter Susanna is the
 addressee of Ann’s epistolary captivity novel *The History of Maria
 Kittle.* Ann married into another prominent Dutch family in 1769,
 becoming the wife of lawyer John James Bleecker, who encouraged her
@@ -117,8 +112,8 @@ Ann, her daughter Margaretta, and a mullato girl survived. John Bleecker
 was absent for the entire episode, fighting for the militia in support
 of the revolution.
 
-At home again in 1779, Ann produced a periodical called the “Albany
-Gazette” filled with her own essays and poetry for her family and
+At home again in 1779, Ann produced a periodical called the *Albany
+Gazette* filled with her own essays and poetry for her family and
 friends to read. This highlights the significance of the periodical
 genre to early Americans and to Bleecker specifically. However, much of
 her writing after so much personal loss, including the novel transcribed
@@ -127,13 +122,13 @@ the militia, was captured in 1781, and Ann suffered a miscarriage and
 mental breakdown in shock. Her husband was rescued quickly, but she
 never completely regained her spirits and died November 23, 1783.
 
-In *The History of Maria Kittle,* Bleecker deals specifically with
+In *The History of Maria Kittle*, Bleecker deals specifically with
 mothers mourning the loss of their children and other family members in
 times of violence. However, by using the structure of a captivity
 narrative and the setting of the French and Indian War, the novel
 explores this theme while vilifying Native Americans rather than the
 British. This trend of scapegoating and demonizing Native Americans
-continued into the 19^th^ century. Although, Bleecker herself did not
+continued into the nineteenth century. Although, Bleecker herself did not
 live to see much peace in the newly formed United States, her words
 survived to comfort, entertain and challenge other citizens of the new
 nation. Though her novel and other work enjoyed enormous popularity in
@@ -141,7 +136,7 @@ the early republic, it went out of fashion until more recent scholars
 went looking for alternative perspectives of American history and early
 examples of the American novel.
 
-Selected Bibliography
+### Selected Bibliography
 
 Bleecker, Ann Eliza, and Margaretta V. Faugeres. *The Posthumous Works
 of Ann Eliza Bleecker, in Prose and Verse. To Which Is Added a

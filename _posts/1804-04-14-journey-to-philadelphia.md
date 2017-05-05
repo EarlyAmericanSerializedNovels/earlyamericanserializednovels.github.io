@@ -13,8 +13,7 @@ An Original Tale—By Adelio.
 Preface
 
 *A Journey to Philadelphia, or, Memoirs of Charles Coleman Saunders* was
-first serialized in *The Philadelphia Repository and Weekly Register* in
-1804. The initial installment appeared on April 14^th^, and the novel
+first serialized in *The Philadelphia Repository and Weekly Register* in 1804. The initial installment appeared on April 14^th^, and the novel
 ran in six subsequent issues, ending May 19^th^. The author signed the
 novel simply “Adelio.” The pseudonym is a masculine derivation of the
 German *edel,* which translates to noble. In addition to *A Journey to

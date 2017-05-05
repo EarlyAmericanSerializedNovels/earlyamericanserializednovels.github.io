@@ -7,21 +7,20 @@ excerpt: "Test excerpt: Written by {Author Name}, published in {venue}, {dates}"
 ### Preface
 
 *Adventures in a Castle* was published initially in eight serialized
-installments in the Philadelphia Repository and Weekly Register (PRWR).
-The first of the work’s eight installments was printed on May 2^nd^,
-1801 and its publication continued weekly through June 30^th^ of that
+installments in the *Philadelphia Repository and Weekly Register*.
+The first of the work’s eight installments was printed on May 2nd,
+1801, and its publication continued weekly through June 30 of that
 same year. The editor, David Hogan, was responsible for the
-serialization and inclusion of *Adventures in a Castle* in the PRWR
+serialization and inclusion of *Adventures in a Castle* in the
 magazine. The vast extent of what is known about the author is shared in
 the paratext Hogan includes in its serialized publication. Hogan
-references the author Julius intermittently (a total of seven times)
-throughout the fictional narrative. Typically these references are just
+references the author Julius a total of seven times. Typically these references are just
 by name and appear at the conclusion of an installment. However, at the
 end of the story, Hogan divulges some interesting views and revealing
 contextualized interpretation of the tale in the concluding paratext.
 
 In addition to his gratitude for the author Julius’ timely submissions,
-Hogan admits in the final paratextual reference that “the literary world
+Hogan admits in the final reference that “the literary world
 abounds with the trifles of this kind.” Hogan goes on to suggest that
 consequently “no doubt \[works like this one\], in some measure, forms a
 criterion by which to judge of the taste of the age; tho’ a taste of
@@ -30,9 +29,9 @@ Essentially, what Hogan concedes is that while this tale is not
 extraordinary in and of itself, it does delineate the general
 expectation readers of that age upheld.
 
-Tales like *Adventures in a Castle*, as Hogan suggests “inculcates a
+Tales like *Adventures in a Castle*, as Hogan suggests “inculcate...a
 moral, if not new, yet good.” In this story, Hogan maintains the Count
-de Vauban (avarice personified) “meets with the deserved punishment:
+de Vauban, who is avarice personified, “meets with the deserved punishment:
 while the innocent objects of his horrid persecution, are extricated
 from his cruel fangs, and finally brought to the enjoyment of more
 perfect domestic felicity, than they would otherwise probably have
@@ -40,7 +39,7 @@ attained, had it not been for those very circumstances to which his
 machinations gave birth.” This particular outcome not only conforms to
 reader expectation but it does so because it corroborates an espoused or
 at least perceived divine truth of the period that “the wicked are often
-snared in their own devices.” Hogan concludes the paratext with his
+snared in their own devices.” Hogan concludes with his
 praise of Julius’ prose and his ability to refrain from “those
 passionate exclamations, that often insinuate a degree of profanity into
 the mind, and with which tales and novels frequently abound.” He
@@ -48,29 +47,28 @@ insinuates to the reader that any new works Julius may choose to submit
 will be given the utmost consideration from the editor.
 
 Julius is credited with a few additional serialized works and literary
-appearances that emerged at different times in the Philadelphia
-Repository and Weekly Register. In a letter to the editor, on October
-17^th^ 1801, Julius bemoans the behavior of two primary correspondents
-over the issue of Mr. Law and the Uranian Society. In the April 2^nd^
+appearances that emerged at different times in the *Philadelphia
+Repository and Weekly Register*. In a letter to the editor, on October
+17 1801, Julius bemoans the behavior of two primary correspondents
+over the issue of Mr. Law and the Uranian Society. In the April 2
 1803 publication Julius addresses the periodical’s editor David Hogan
 through paratext interjected before the poem “Epitaph” urging his
 readership to help solve an apparent chronological inconsistency in the
-work. In one of the earliest submissions on April 4^th^ 1801, Julius, in
+work. In one of the earliest submissions on April 4 1801, Julius, in
 the short fictional work “Curious Incident,” patterns much of what he
 accomplishes later in *Adventures in a Castle* through his construction
-of this demonstrable moralistic tale. The final reference of Julius in
-PRWR is the serialized work entitled *The Ruins*. *The Ruins* was a
+of this demonstrable moralistic tale. The final reference of Julius is the 
+serialized work entitled *The Ruins*. *The Ruins* is a
 similarly moralistic tale that was serialized into six installments
-beginning on the 28^th^ of November 1801 publication in and finishing on
-the January 16^th^ edition in 1802.
+beginning on November 28, 1801 and finishing on
+the January 16, 1802.
 
-As its name suggests, the Philadelphia Repository and Weekly Register
-(PRWR) was printed in the early 19^th^ Century in Philadelphia
-Pennsylvania. The publication was printed in quarto form. A “quarto” is
+As its name suggests, the *Philadelphia Repository and Weekly Register*
+was printed in the early nineteenth century in Philadelphia. The publication was printed in quarto form,
 a book or pamphlet composed of one or more sheets of paper on which
 eight pages are printed, which are then folded twice over to create four
-“leaves.” During its five-and-a-half-year existence from November 15^th^
-1800 to April 5^th^ 1806, the PRWR was edited by David Hogan, John W.
+“leaves.” During its five-and-a-half-year existence from November 15,
+1800 to April 5, 1806, the *Philadelphia Repository and Weekly Register* was edited by David Hogan, John W.
 Scott, and ultimately Thomas Irwin.
 
 This eight-page weekly publication included an assortment of
@@ -78,28 +76,22 @@ miscellaneous subjects, matters, and content that were composed in a
 diverse range of forms including: original essays, serialized tales,
 extracts from both new and older publications, biographical sketches,
 and some material on the theater. According to the *History of
-Philadelphia* Volume III, the Philadelphia Repository and Weekly
-Register was popular with many because it was “edited with a kind spirit
+Philadelphia*, the *Philadelphia Repository and Weekly
+Register* was popular because it was “edited with a kind spirit
 of encouragement towards their experiments in writing, and offered a
 place for their poetry, tales, and sketches, upon terms of criticism not
-very strict or severe. Interestingly, the majority of issues often
+very strict or severe." Interestingly, the majority of issues often
 included musical compositions, and during the period of time when Hogan
-and Scott oversaw the periodical’s publication, which essentially
-constituted the first four volumes, the final page was dedicated almost
+and Scott oversaw the periodical’s publication, the final page was dedicated almost
 exclusively to poetry.
 
 Each of the narrative’s serialized excerpts are contained in the
-periodical’s first volume–in consecutive issues twenty-five through
-thirty-two. The original aggregation and organization of the serialized
-content, which was used as the primary source material for the
-transcription was retrieved from the American Periodicals Series II
-Database.
-
-*Adventures in a Castle* was also reprinted and featured in the New-York
-Weekly Museum (NYWM). It appeared in six installments beginning on
-January 2^nd^ and ending on the 6^th^ February 1808. It is interesting
+periodical’s first volume in consecutive issues twenty-five through
+thirty-two.*Adventures in a Castle* was also reprinted and featured in the *New-York
+Weekly Museum*. It appeared in six installments beginning on
+January 2 and ending on the February 6, 1808. It is interesting
 to consider just how much the readability of the text is impacted by the
-two different serializations (and even much later novelized edition).
+two different serializations. 
 
 *Adventures in a Castle*, in its initial eight-installment-serialization
 were shorter, so out of necessity, the “new” breaks in the two
@@ -116,8 +108,8 @@ form, even the title changed with the second serial. The work was no
 longer entitled merely *Adventures in a Castle* but another optional
 title was inserted—*The Two Brothers*.
 
-The NYWM was a four-page magazine intended largely for female
-readerships. It was characterized as a “polite repository of amusement
+The *New-York Weekly Museum* was a four-page magazine intended largely for a female
+readership. It was characterized as a “polite repository of amusement
 and instruction; being an assemblage of whatever can interest the mind,
 or exalt the character of the American fair.” Much of the content was of
 a sentimental and moral nature and included fictional romances that were

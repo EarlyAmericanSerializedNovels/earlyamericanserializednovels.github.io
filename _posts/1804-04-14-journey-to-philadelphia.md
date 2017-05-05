@@ -103,7 +103,7 @@ soon after its initial publication suggests its popularity.
 
 Works Consulted:
 
-Adelio. *A Journey to Philadelphia. Philadelphia Repository and *Weekly Register, 1804.*
+Adelio. *A Journey to Philadelphia. Philadelphia Repository and Weekly Register*, 1804.
 
 
 Brown, Charles. *Wieland.* Ægypan Press, 2006.
@@ -118,11 +118,7 @@ McMahon, Linda. “’Of the Utmost Importance to Our Country’:Women, Educatio
 “Noble.” *Pocket Oxford German Dictionary: English German.* Fourth ed., 2012.
 
 
-“Publication Information: *Philadelphia Repository and Weekly *
-
-
-*Register.” American Periodicals.
-
+“Publication Information: *Philadelphia Repository and Weekly Register*.” American Periodicals.
 
 “Terms for the Repository.” *Philadelphia Repository and Weekly Register,* 2 March 1805, pp. 72.
 

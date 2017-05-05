@@ -10,7 +10,7 @@ culled from other newspapers, periodicals, and literary sources. The
 anonymous author may also be due to the story enacting a common
 stereotype and trope which cuts across cultures and traditions—that of
 the cruel and tyrannical father. Many other serialized stories appear
-during the early American era named “The Cruel Father” which contain the
+during the early American era named *The Cruel Father* which contain the
 same general motif, but are comprised of different characters and
 different plotlines. The cruel father also appears as a stock character
 in numerous other tales and stories of the same time period. While the
@@ -47,7 +47,7 @@ advice, and advertising all aimed at the polite and refined female
 society of New York City. Although the newspaper was chiefly a literary
 magazine, it also contained paragraphs of news, theatrical
 announcements, and advice for women in the form of verse. It was during
-this period of the newspaper’s existence that “The Cruel Father”
+this period of the newspaper’s existence that *The Cruel Father*
 appeared in its pages.
 
 Advertisements aimed at attracting attention of the intended audience

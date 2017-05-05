@@ -105,17 +105,24 @@ Works Consulted:
 
 Adelio. *A Journey to Philadelphia. Philadelphia Repository and *Weekly Register, 1804.*
 
+
 Brown, Charles. *Wieland.* Ægypan Press, 2006.
+
 
 “For the Philadelphia Repository.” *Philadelphia Repository and Weekly Register,* 7 April 1804, pp. 71.
 
+
 McMahon, Linda. “’Of the Utmost Importance to Our Country’:Women, Education, and Society,1780–1820.” *Journal of the Early Republic,* vol. 29, no. 3, 2009, pp. 475-506.
+
 
 “Noble.” *Pocket Oxford German Dictionary: English German.* Fourth ed., 2012.
 
+
 “Publication Information: *Philadelphia Repository and Weekly *
 
+
 *Register.” American Periodicals.
+
 
 “Terms for the Repository.” *Philadelphia Repository and Weekly Register,* 2 March 1805, pp. 72.
 

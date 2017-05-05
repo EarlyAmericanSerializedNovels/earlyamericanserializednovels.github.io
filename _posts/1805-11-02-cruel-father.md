@@ -2,7 +2,7 @@
 
 ### Preface: The Cruel Father
 
-“The Cruel Father” first appeared as a serialized long story in the
+*The Cruel Father* first appeared as a serialized long story in the
 *New-York Weekly Museum*. It ran in four weekly installments between
 November 2, 1805 and November 23, 1805. No author was ascribed to the
 story, a common occurrence during this period when stories were often
@@ -74,7 +74,7 @@ Weekly Museum*, an independent newspaper for twenty-nine years, was
 subsumed by Ming and became a part of the new newspaper, *Weekly Visitor
 and Ladies’ Museum*.
 
-That “The Cruel Father” would appear in the *New-York Weekly* is
+That *The Cruel Father* would appear in the *New-York Weekly* is
 somewhat surprising. The tale is a moral tale, but one aimed at husbands
 and fathers instead of women. It relates the story of a young woman who
 marries a greedy man named Malvolio, whose only love in life is money.

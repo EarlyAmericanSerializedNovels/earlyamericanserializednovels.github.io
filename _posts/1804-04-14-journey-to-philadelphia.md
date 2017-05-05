@@ -103,47 +103,27 @@ soon after its initial publication suggests its popularity.
 
 Works Consulted:
 
-Adelio. *A Journey to Philadelphia. Philadelphia Repository and *
-
-*Weekly Register, 1804.*
+Adelio. *A Journey to Philadelphia. Philadelphia Repository and *Weekly Register, 1804.*
 
 Brown, Charles. *Wieland.* Ægypan Press, 2006.
 
-“For the Philadelphia Repository.” *Philadelphia Repository and *
+“For the Philadelphia Repository.” *Philadelphia Repository and Weekly Register,* 7 April 1804, pp. 71.
 
-*Weekly Register,* 7 April 1804, pp. 71.
+McMahon, Linda. “’Of the Utmost Importance to Our Country’:Women, Education, and Society,1780–1820.” *Journal of the Early Republic,* vol. 29, no. 3, 2009, pp. 475-506.
 
-McMahon, Linda. “’Of the Utmost Importance to Our Country’:
-
-Women, Education, and Society,1780–1820.” *Journal of the *
-
-> *Early Republic,* vol. 29, no. 3, 2009, pp. 475-506.
-
-“Noble.” *Pocket Oxford German Dictionary: English German.* Fourth
-
-ed., 2012.
+“Noble.” *Pocket Oxford German Dictionary: English German.* Fourth ed., 2012.
 
 “Publication Information: *Philadelphia Repository and Weekly *
 
-*Register.” American Periodicals. *
+*Register.” American Periodicals.
 
-“Terms for the Repository.” *Philadelphia Repository and Weekly *
+“Terms for the Repository.” *Philadelphia Repository and Weekly Register,* 2 March 1805, pp. 72.
 
-*Register,* 2 March 1805, pp. 72.
+“To Adelio.” *Philadelphia Repository and Weekly Register,* 14 April, 1804, pp. 118.
 
-“To Adelio.” *Philadelphia Repository and Weekly Register,* 14
+“To L’ami” *Philadelphia Repository and Weekly Register,* 21 April, 1804.
 
-April, 1804, pp. 118.
-
-“To L’ami” *Philadelphia Repository and Weekly Register,* 21 April,
-
-1804.
-
-Waterman, Bryan. “Introduction: Reading Early America with
-
-Charles Brockden Brown.” *Early American Literature,* vol.
-
-44, no. 2, 2009, pp. 235-242.
+Waterman, Bryan. “Introduction: Reading Early America with Charles Brockden Brown.” *Early American Literature,* vol. 44, no. 2, 2009, pp. 235-242.
 
 ### Text  
   

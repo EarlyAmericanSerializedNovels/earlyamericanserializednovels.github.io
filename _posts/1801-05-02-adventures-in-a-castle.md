@@ -1,21 +1,16 @@
----  
-excerpt: "Test excerpt: Written by {Author Name}, published in {venue}, {dates}"
----  
-
 {% include toc %}
 
 ### Preface
 
 *Adventures in a Castle* was published initially in eight serialized
-installments in the Philadelphia Repository and Weekly Register (PRWR).
-The first of the work’s eight installments was printed on May 2^nd^,
-1801 and its publication continued weekly through June 30^th^ of that
+installments in the *Philadelphia Repository and Weekly Register*.
+The first of the work’s eight installments was printed on May 2,
+1801 and its publication continued weekly through June 30 of that
 same year. The editor, David Hogan, was responsible for the
-serialization and inclusion of *Adventures in a Castle* in the PRWR
+serialization and inclusion of *Adventures in a Castle* in the 
 magazine. The vast extent of what is known about the author is shared in
-the paratext Hogan includes in its serialized publication. Hogan
-references the author Julius intermittently (a total of seven times)
-throughout the fictional narrative. Typically these references are just
+the paratext Hogan includes in its serialized publication. (Hogan
+references the author Julius seven times.) Typically these references are just
 by name and appear at the conclusion of an installment. However, at the
 end of the story, Hogan divulges some interesting views and revealing
 contextualized interpretation of the tale in the concluding paratext.
@@ -32,7 +27,7 @@ expectation readers of that age upheld.
 
 Tales like *Adventures in a Castle*, as Hogan suggests “inculcates a
 moral, if not new, yet good.” In this story, Hogan maintains the Count
-de Vauban (avarice personified) “meets with the deserved punishment:
+de Vauban “meets with the deserved punishment:
 while the innocent objects of his horrid persecution, are extricated
 from his cruel fangs, and finally brought to the enjoyment of more
 perfect domestic felicity, than they would otherwise probably have

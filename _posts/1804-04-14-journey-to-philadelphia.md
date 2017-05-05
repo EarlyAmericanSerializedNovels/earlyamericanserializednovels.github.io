@@ -6,15 +6,9 @@ excerpt: "Test excerpt"
 
 ### Preface  
 
-A Journey to Philadelphia: or, Memoirs of Charles Coleman Saunders.
-
-An Original Tale—By Adelio.
-
-Preface
-
 *A Journey to Philadelphia, or, Memoirs of Charles Coleman Saunders* was
-first serialized in *The Philadelphia Repository and Weekly Register* in 1804. The initial installment appeared on April 14^th^, and the novel
-ran in six subsequent issues, ending May 19^th^. The author signed the
+first serialized in *The Philadelphia Repository and Weekly Register* in 1804. The initial installment appeared on April 14, and the novel
+ran in six subsequent issues, ending May 19. The author signed the
 novel simply “Adelio.” The pseudonym is a masculine derivation of the
 German *edel,* which translates to noble. In addition to *A Journey to
 Philadelphia,* Adelio is named as author of 12 other poems and opinion
@@ -28,21 +22,18 @@ Journey to Philadelphia* appeared.
 *The Philadelphia Repository and Weekly Register* was a
 Philadelphia-based weekly magazine which was published from 1800-1805.
 According to its terms, a subscription cost four dollars per year, and
-half that for subscribers in the country outside Philadelphia (“Terms of
-the Repository 72”). Women’s interests were frequent topics in the
+half that for subscribers in the country outside Philadelphia. Women’s interests were frequent topics in the
 magazine. According to Lucia McMahon’s study of female roles in American
 society, venues like *The Philadelphia Repository* expanded the network
 of communication in order to propagate and advocate for women’s
-education. “The early republic’s government, institutions, and society
-depended on the presence of properly educated women—and thus, the public
-had an obligation to support women’s education” (488). *The Philadelphia
+education. *The Philadelphia
 Repository* was a miscellany, committed to publishing a variety of
 topics, so it is unsurprising the editors would publish pieces which
 contributed to the national conversation of women’s roles in the nascent
 republic.
 
 Adelio’s contributions are not excluded from the conversations on women.
-In one April 7^th^, 1804 Adelio letter, a case is made against men who
+In one April 7, 1804 Adelio letter, a case is made against men who
 bemoan their wives. He warns readers against choosing a marriage partner
 for beauty and fortune only.
 
@@ -53,21 +44,20 @@ for beauty and fortune only.
 > couples, it has as frequently been owing to an improper choice; in
 > many instances the female has been selected for beauty of fortune
 > only, without any regard to disposition, virtue, or solid
-> accomplishments. (“For the Philadelphia Repository 71”)
+> accomplishments.
 
 In other words, Adelio echoes other writers of the Early National period
 by advocating for a filial marriage pairing instead of marriage for
-financial gain. The April 7^th^ letter sparks a response from L’ami,
+financial gain. The April 7 letter sparks a response from L’ami,
 another contributor, who disagrees with Adelio’s forgiving stance toward
 women in unhappy marriages. L’ami instead blames incessant female
 chatter, financial excess, and domineering female spirits to marital
-strife (“To Adelio”). Adelio responds by reproaching the writer, and
-suggesting he read more closely in order to fully understand his points
-(“To L’ami”).
+strife. Adelio responds by reproaching the writer, and
+suggesting he read more closely in order to fully understand his points.
 
 In another entry, Adelio claims a motto, initially in German, then
 translated to English. “When you write, write so your reader may
-understand” (“For the Philadelphia Repository” 71). Following the German
+understand." Following the German
 heading, Adelio’s article is a denouncement of foreign language mottos
 or headings, and he describes them, in essence, as pretentious displays
 of education.
@@ -129,7 +119,7 @@ Women, Education, and Society,1780–1820.” *Journal of the *
 
 > *Early Republic,* vol. 29, no. 3, 2009, pp. 475-506.
 
-“Noble.” *Pocket Oxford German Dictionary: English German.* 4^th^
+“Noble.” *Pocket Oxford German Dictionary: English German.* Fourth
 
 ed., 2012.
 

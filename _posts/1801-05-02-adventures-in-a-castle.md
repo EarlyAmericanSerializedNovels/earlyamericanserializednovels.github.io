@@ -1,7 +1,3 @@
----  
-excerpt: "Test excerpt: Written by {Author Name}, published in {venue}, {dates}"
----  
-
 {% include toc %}
 
 ### Preface

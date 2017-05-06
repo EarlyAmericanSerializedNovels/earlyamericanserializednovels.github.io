@@ -1,6 +1,11 @@
 # tasks still to do  
 
-- [ ] update site content  
+- [ ] update site written content  
+  - [ ] standardize titles of books  
+    - [ ] decide how we'll standardize titles  
+      - [ ] include "the," "a," etc at the beginning?  
+      - [ ] is there a "break point" we might use for the titles, such as at the first colon, comma, or etc?  
+    - [ ] implement changes  
   - [ ] landing page description of collection  
   - [ ] teaching tools description  
   - [ ] post content  
@@ -16,6 +21,13 @@
     - [x] email everyone asking how they'd prefer novels to be organized @done(2017-05-02)  
     - [x] test organizing them by date published @done(2017-05-02)  
     - [ ] re-organize as we decide @waiting  
+ 
+- [ ] update images  
+  - [ ] decide where to put images  
+  - [ ] decide where to put captions and credits  
+    - [ ] preferably a caption per image that includes title, subject represented, source, and copyright info    
+    - [ ] do we want to have a global statement on the colophon or about us page that explains image use / offers to take down any that are under copyright?  
+  - [ ] impement desired changes    
 
 - [ ] styling  
   - [ ] css things  

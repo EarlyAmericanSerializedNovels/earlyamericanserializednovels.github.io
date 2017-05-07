@@ -13,18 +13,20 @@ Table of Contents, Vol. 1
 
 <ul style="list-style: none; padding-left: 0;">  
 
-<li><a href="/assets/files/issue01.pdf">EASN Issue 1</a>: Foresters I, The History of Maria Kittle I, Adventures in a Castle I, Albert and Eliza I</li>  
-<li><a href="/assets/files/issue02.pdf">EASN Issue 2</a>: Foresters II, The History of Maria Kittle II, Adventures in a Castle II, Albert and Eliza II</li>  
-<li><a href="/assets/files/issue03.pdf">EASN Issue 3</a>: Foresters III, The History of Maria Kittle III, Adventures in a Castle III, Albert and Eliza III</li>  
-<li><a href="/assets/files/issue04.pdf">EASN Issue 4</a>: Foresters IV, The History of Maria Kittle IV, Adventures in a Castle IV, Albert and Eliza IV, Journey to Philadelphia I</li>  
-<li><a href="/assets/files/issue05.pdf">EASN Issue 5</a>: Foresters V, The History of Maria Kittle V, Adventures in a Castle V, Albert and Eliza V, Journey to Philadelphia II</li>  
-<li><a href="/assets/files/issue06.pdf">EASN Issue 6</a>: Foresters VI, Cruel Father I, Adventures in a Castle VI, Albert and Eliza VI, Journey to Philadelphia III</li>  
-<li><a href="/assets/files/issue07.pdf">EASN Issue 7</a>: Foresters VII, Cruel Father II, Adventures in a Castle VII, Journey to Philadelphia IV</li>  
-<li><a href="/assets/files/issue08.pdf">EASN Issue 8</a>: Foresters VIII, Cruel Father III, Adventures in a Castle VIII, Journey to Philadelphia V, Eugenius and Selima I</li>  
-<li><a href="/assets/files/issue09.pdf">EASN Issue 9</a>: Foresters IX, Cruel Father IV, Journey to Philadelphia VI, Eugenius and Selima II</li>  
+<li><a href="/assets/files/EASNissue01.pdf">EASN Issue 1</a>: Foresters I, The History of Maria Kittle I, Adventures in a Castle I, Albert and Eliza I</li>  
+<li><a href="/assets/files/EASNissue02.pdf">EASN Issue 2</a>: Foresters II, The History of Maria Kittle II, Adventures in a Castle II, Albert and Eliza II</li>  
+<li><a href="/assets/files/EASNissue03.pdf">EASN Issue 3</a>: Foresters III, The History of Maria Kittle III, Adventures in a Castle III, Albert and Eliza III</li>  
+<li><a href="/assets/files/EASNissue04.pdf">EASN Issue 4</a>: Foresters IV, The History of Maria Kittle IV, Adventures in a Castle IV, Albert and Eliza IV, Journey to Philadelphia I</li>  
+<li><a href="/assets/files/EASNissue05.pdf">EASN Issue 5</a>: Foresters V, The History of Maria Kittle V, Adventures in a Castle V, Albert and Eliza V, Journey to Philadelphia II</li>  
+<li><a href="/assets/files/EASNissue06.pdf">EASN Issue 6</a>: Foresters VI, Cruel Father I, Adventures in a Castle VI, Albert and Eliza VI, Journey to Philadelphia III</li>  
+<li><a href="/assets/files/EASNissue07.pdf">EASN Issue 7</a>: Foresters VII, Cruel Father II, Adventures in a Castle VII, Journey to Philadelphia IV</li>  
+<li><a href="/assets/files/EASNissue08.pdf">EASN Issue 8</a>: Foresters VIII, Cruel Father III, Adventures in a Castle VIII, Journey to Philadelphia V, Eugenius and Selima I</li>  
+<li><a href="/assets/files/EASNissue09.pdf">EASN Issue 9</a>: Foresters IX, Cruel Father IV, Journey to Philadelphia VI, Eugenius and Selima II</li>  
 
 </ul>  
 
+<!-- not sure where these images are  
 ![new york mag 1792.jpg](media/image1.jpeg){width="4.354166666666667in" height="7.8125in"}
 
 ![http://www.henrylivingston.com/writing/prose/images/published/nymlr-1791-jul-toc--p365-1000.jpg](media/image2.jpeg){width="6.5in" height="11.056500437445319in"}
+-->

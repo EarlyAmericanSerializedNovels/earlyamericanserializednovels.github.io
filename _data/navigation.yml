@@ -8,6 +8,8 @@ main:
     url: /timeline/  
   - title: "Teaching"
     url: /teaching/
+  - title: "Periodicals and Serials"
+    url: /periodicals-and-serials/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

@@ -2,89 +2,27 @@
 
 ### Preface
 
-*Albert and Eliza,* a novel written by Isaac Mitchell, was serialized in
-the *Political Barometer*, a New York newspaper. Its first installment
-appeared on June 8, 1802, and it was published weekly until July
-13, 1802. The author Mitchell not only wrote novels in the *Political
-Barometer* but was also the editor and publisher. Born near Albany, New
-York in 1759, he joined the newspaper business in 1798 in Poughkeepsie,
-New York. Though Mitchell worked with several newspapers, he was
-involved with the *Political Barometer* for the longest time from 1802
-to 1806. The *Political Barometer*, a Poughkeepsie, New York weekly
-newspaper, was first named *The Guardian* when Jesse Buel and Nathaniel
-Joyner started the paper. The paper was an open advocate of Thomas
-Jefferson. When Mitchell, purchased Joyner’s interest in 1802 the paper
-was renamed to *Political Barometer*. By May of 1805, Buell’s name was
-removed as publisher and editor and Mitchell remained the sole
-proprietor of the newspaper, until 1806.
+*Albert and Eliza,* a novel written by Isaac Mitchell, was serialized in the *Political Barometer*, a New York newspaper. Its first installment appeared on June 8, 1802, and it was published weekly until July 13, 1802. The author Mitchell not only wrote novels in the *Political Barometer* but was also the editor and publisher. Born near Albany, New York in 1759, he joined the newspaper business in 1798 in Poughkeepsie, New York. Though Mitchell worked with several newspapers, he was involved with the *Political Barometer* for the longest time from 1802 to 1806. The *Political Barometer*, a Poughkeepsie, New York weekly newspaper, was first named *The Guardian* when Jesse Buel and Nathaniel Joyner started the paper. The paper was an open advocate of Thomas Jefferson. When Mitchell, purchased Joyner’s interest in 1802 the paper was renamed to *Political Barometer*. By May of 1805, Buell’s name was removed as publisher and editor and Mitchell remained the sole proprietor of the newspaper, until 1806.
 
-In its first publication on June 8, 1802, Mitchell and Buel state
-that the paper aims to incorporate both domestic and international
-materials and claims it is open to political discussion from either
-Federalist or Democratic-Republican parties. However, it was clear that
-Mitchell and *Political Barometer* was more in the favor of the
-Republicans. On September 16, 1806, Mitchell published his farewell
-editorial in his the *Political Barometer*. Within this farewell
-address, Mitchell stressed the important role that he and his newspaper
-played within the current political climate. As a fervent supporter of
-Republicanism, for Mitchell, nothing was more important and nothing was
-more vital than preserving his political party’s influence.
+In its first publication on June 8, 1802, Mitchell and Buel state that the paper aims to incorporate both domestic and international materials and claims it is open to political discussion from either Federalist or Democratic-Republican parties. However, it was clear that Mitchell and *Political Barometer* was more in the favor of the Republicans. On September 16, 1806, Mitchell published his farewell editorial in his the *Political Barometer*. Within this farewell address, Mitchell stressed the important role that he and his newspaper played within the current political climate. As a fervent supporter of Republicanism, for Mitchell, nothing was more important and nothing was more vital than preserving his political party’s influence.
 
-Although Mitchell went on to work as a newspaperman at other journals,
-it is during his time at the *Political Barometer* that his most popular
-works of literature were produced. In addition to *Albert and Eliza*,
-Mitchell also wrote and published two other longer novels: *Melville and
-Phalez* (1803), and *Alonzo and Melissa* (1804). Mitchell died from
-Typhus on November 26, 1812 and is buried in the Dutch Church Cemetery
-in Poughkeepsie, New York, next to his wife, Anah.
+Although Mitchell went on to work as a newspaperman at other journals, it is during his time at the *Political Barometer* that his most popular works of literature were produced. In addition to *Albert and Eliza*, Mitchell also wrote and published two other longer novels: *Melville and Phalez* (1803), and *Alonzo and Melissa* (1804). Mitchell died from Typhus on November 26, 1812 and is buried in the Dutch Church Cemetery in Poughkeepsie, New York, next to his wife, Anah.
 
-Mitchell’s three novels, *Albert and Eliza*, *Melville and Phalex*, and
-*Alonzo and Melissa*, were serialized and published in the *Political
-Barometer*. *Alonzo and Melissa* was later edited and published in a
-book with the title *The Asylum* in 1811 and now has become his most
-known novel*.* Aside from Mitchell’s editing and re-publication of *The
-Asylum*, his three novels at times have been ascribed to other authors.
-*Albert and Eliza*, for example, was pirated by Russel Ladd and was
-reprinted as a book in 1802. This was due to the common practice of
-literary piracy that took place in the early American republic. It is
-clear, however, from a note to his work *Albert and Eliza* that he is
-indeed the original author of all three *Political Barometer* works.
+Mitchell’s three novels, *Albert and Eliza*, *Melville and Phalex*, and *Alonzo and Melissa*, were serialized and published in the *Political Barometer*. *Alonzo and Melissa* was later edited and published in a book with the title *The Asylum* in 1811 and now has become his most known novel*.* Aside from Mitchell’s editing and re-publication of *The Asylum*, his three novels at times have been ascribed to other authors. *Albert and Eliza*, for example, was pirated by Russel Ladd and was reprinted as a book in 1802. This was due to the common practice of literary piracy that took place in the early American republic. It is clear, however, from a note to his work *Albert and Eliza* that he is indeed the original author of all three *Political Barometer* works.
 
-As with other serialized works, *Albert and Eliza* is also composed with
-complex subplots. The main story is about a young woman named Eliza’s
-fidelity and faithfulness to her betrothed Albert. Compared to the
-topics surrounding Albert and Eliza, such as fidelity, sentiment, and
-virtue, other characters raise rather proactive issues. For example,
-when it is revealed at the end of the novel that Blake, one of Eliza’s
-admirers, had married Ms. Smith without knowing the fact that she was
-actually his half-sister or when Blake kills his half-brother Palmer in
-a duel raise the issue of incest and fratricide. Along with the complex
-subplots, the lapses between each installment create curiosity and
-anticipation of the next story which is another feature of
-serialization. Whereas book readers can jump right into the ending,
-serialization creates terms between each episode and extends the reading
-experience to readers. *Albert and Eliza* also has intentional breaks
-between installments that heighten the tension in the story.
+As with other serialized works, *Albert and Eliza* is also composed with complex subplots. The main story is about a young woman named Eliza’s fidelity and faithfulness to her betrothed Albert. Compared to the topics surrounding Albert and Eliza, such as fidelity, sentiment, and virtue, other characters raise rather proactive issues. For example, when it is revealed at the end of the novel that Blake, one of Eliza’s admirers, had married Ms. Smith without knowing the fact that she was actually his half-sister or when Blake kills his half-brother Palmer in a duel raise the issue of incest and fratricide. Along with the complex subplots, the lapses between each installment create curiosity and anticipation of the next story which is another feature of serialization. Whereas book readers can jump right into the ending, serialization creates terms between each episode and extends the reading experience to readers. *Albert and Eliza* also has intentional breaks between installments that heighten the tension in the story.
 
-Works Consulted
+__Works Consulted__
 
-Davidson, Cathy N. *Revolution and the World: The Rise of the Novel in
-America*. Oxford UP, 2004.
+Davidson, Cathy N. *Revolution and the World: The Rise of the Novel in America*. Oxford UP, 2004.
 
-Fichtelberg, Joseph. “The Sentimental Economy of Isaac Mitchell’s *The
-Asylum.” Early American Literature,* no. 32, vol. 1, 1997, pp 1-19.
+Fichtelberg, Joseph. “The Sentimental Economy of Isaac Mitchell’s *The Asylum.” Early American Literature,* no. 32, vol. 1, 1997, pp 1-19.
 
-Giles, Paul. “Translantic currents and the invention of the American
-novel.” *The Cambridge History of the American Novel*. Ed. Leonard
-Cassuto, Cambridge UP, 2011, pp 22-36.
+Giles, Paul. “Translantic currents and the invention of the American novel.” *The Cambridge History of the American Novel*. Ed. Leonard Cassuto, Cambridge UP, 2011, pp 22-36.
 
-James Fenimore Cooper Society Website. “Isaac Mitchell: Collected
-Works”. James Fenimore Cooper society,
-http://external.oneonta.edu/cooper/introduction/mitchell/mitchell.html.
-Accessed 26 April 2017.
+James Fenimore Cooper Society Website. “Isaac Mitchell: Collected Works”. James Fenimore Cooper society, <http://external.oneonta.edu/cooper/introduction/mitchell/mitchell.html>. Accessed 26 April 2017.
 
-Platt, Edmund. *The Eagle’s History of Poughkeepsie: From the Earliest
-Settlements 1683 to 1905.* Platt and Platt, 1905.
+Platt, Edmund. *The Eagle’s History of Poughkeepsie: From the Earliest Settlements 1683 to 1905.* Platt and Platt, 1905.
 
 ### Text  
   

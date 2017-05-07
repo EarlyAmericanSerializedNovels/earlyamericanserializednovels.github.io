@@ -18,7 +18,7 @@
 .page__content p+p {
   text-indent: $indent-var;
   img {
-    text-indent: 0 !important;
+    margin-left: -$indent-var;
   }
 }
 

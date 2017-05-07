@@ -11,17 +11,19 @@ In this section, we have produced a mock periodical for the Early American Seria
 
 Table of Contents, Vol. 1
 
-<span style="list-style: none">
+<ul style="list-style: none">  
+
 - [EASN Issue 1](/assets/files/issue01.pdf): Foresters I, The History of Maria Kittle I, Adventures in a Castle I, Albert and Eliza I  
-- [EASN Issue 2]: Foresters II, The History of Maria Kittle II, Adventures in a Castle II, Albert and Eliza II  
-- [EASN Issue 3]: Foresters III, The History of Maria Kittle III, Adventures in a Castle III, Albert and Eliza III  
-- [EASN Issue 4]: Foresters IV, The History of Maria Kittle IV, Adventures in a Castle IV, Albert and Eliza IV, Journey to Philadelphia I  
-- [EASN Issue 5]: Foresters V, The History of Maria Kittle V, Adventures in a Castle V, Albert and Eliza V, Journey to Philadelphia II  
-- [EASN Issue 6]: Foresters VI, Cruel Father I, Adventures in a Castle VI, Albert and Eliza VI, Journey to Philadelphia III  
-- [EASN Issue 7]: Foresters VII, Cruel Father II, Adventures in a Castle VII, Journey to Philadelphia IV  
-- [EASN Issue 8]: Foresters VIII, Cruel Father III, Adventures in a Castle VIII, Journey to Philadelphia V, Eugenius and Selima I  
-- [EASN Issue 9]: Foresters IX, Cruel Father IV, Journey to Philadelphia VI, Eugenius and Selima II  
-</span>  
+- [EASN Issue 2](/assets/files/issue01.pdf): Foresters II, The History of Maria Kittle II, Adventures in a Castle II, Albert and Eliza II  
+- [EASN Issue 3](/assets/files/issue01.pdf): Foresters III, The History of Maria Kittle III, Adventures in a Castle III, Albert and Eliza III  
+- [EASN Issue 4](/assets/files/issue01.pdf): Foresters IV, The History of Maria Kittle IV, Adventures in a Castle IV, Albert and Eliza IV, Journey to Philadelphia I  
+- [EASN Issue 5](/assets/files/issue01.pdf): Foresters V, The History of Maria Kittle V, Adventures in a Castle V, Albert and Eliza V, Journey to Philadelphia II  
+- [EASN Issue 6](/assets/files/issue01.pdf): Foresters VI, Cruel Father I, Adventures in a Castle VI, Albert and Eliza VI, Journey to Philadelphia III  
+- [EASN Issue 7](/assets/files/issue01.pdf): Foresters VII, Cruel Father II, Adventures in a Castle VII, Journey to Philadelphia IV  
+- [EASN Issue 8](/assets/files/issue01.pdf): Foresters VIII, Cruel Father III, Adventures in a Castle VIII, Journey to Philadelphia V, Eugenius and Selima I  
+- [EASN Issue 9](/assets/files/issue01.pdf): Foresters IX, Cruel Father IV, Journey to Philadelphia VI, Eugenius and Selima II  
+
+</ul>  
 
 ![new york mag 1792.jpg](media/image1.jpeg){width="4.354166666666667in" height="7.8125in"}
 

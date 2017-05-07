@@ -4,6 +4,9 @@
 
 ### site written content  
 
+- [ ] standardize "Early American Serial Novels" or "Early American Serialized Novels" throughout  
+  - [ ] email Professor Lawrimore to ask about this @email  
+
 - [ ] standardize titles of books  
   - [w] decide how we'll standardize titles  
     - [x] include "the," "a," etc at the beginning for now  
@@ -36,15 +39,19 @@
 ### site images  
 
 - [ ] decide where to put images  
+  - [ ] 
 - [ ] decide where to put captions and credits  
   - [ ] preferably a caption per image that includes title, subject represented, source, and copyright info    
   - [ ] do we want to have a global statement on the colophon or about us page that explains image use / offers to take down any that are under copyright?  
-- [ ] impement desired changes    
+- [ ] implement desired changes    
 
 ### site styling (mostly css, scss, html)  
 
 - [ ] css things  
   - [ ] fix css classes  
+    - [x] find css that will make hanging indents work @done(2017-05-05; link here: http://www.jeremiahhenry.com/2014/10/css-mla-apa-style-works-cited-entries/)  
+    - [ ] add `workscited` css class to our css stylesheet  
+    - [ ] add `workscited` css class using <span></span> to all our works cited sections, likely by adding {: .workscited} on the line directly after the closing </span> tag in each markdown file  
   - [ ] fix css/sass styles  
   - [ ] Bigfoot.js button styling  
   - [ ] increase text contrast throughout  

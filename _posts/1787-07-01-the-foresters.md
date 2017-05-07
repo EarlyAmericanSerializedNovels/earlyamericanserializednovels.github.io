@@ -1,3 +1,7 @@
+---
+excerpt: "By Jeremy Belknap"  
+---
+
 {% include toc %}
 
 ### Preface

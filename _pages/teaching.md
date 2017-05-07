@@ -7,6 +7,8 @@ layout: single
 
 {% include toc %}
 
+### About the Teaching Resources
+
 In this section, we have produced a mock periodical for the Early American Serial Novels in the archive in order to provide a more authentic reading experience of the serial genre. This project mimics the time lapse and smorgasbord aspects of serial reading which is lost when these serial novels are presented and read in the single volume style they were adapted to later. Each of the novels reproduced in this archive come from actual early American periodicals like the *New York Magazine, or Literary Repository* or the *Political Barometer.* Further research on the contents, subscription lists, and distribution methods of the magazines and newspapers in which these novels were historically published can produce further insights into the nature of the texts. There are reproductions and archives of these periodicals elsewhere, so they fall outside the scope of this archive. However, the mock periodical presented here fills a need for reproducing the serial reading experience along with the serial novels themselves. Hopefully, including this tool will encourage pedagogy and scholarship that explores magazine, newspaper, and book production and relates the economic and technological necessities of the industry to the texts they produce. This may prompt teachers to dig into the archives for more of the circulation history of the novels they teach, relate formal published literature to the informal and often unpublished periodicals commonly put together by individual authors of this era as juvenilia or as part of a particular writing circle or community, and inspire assignments in which students create and/or analyze their own periodicals.  
 
 ### EASN Periodical  

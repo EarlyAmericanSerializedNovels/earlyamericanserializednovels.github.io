@@ -1,3 +1,7 @@
+---  
+excerpt: "Published Anonymously"  
+---  
+
 {% include toc %}
 
 ### Preface: The Cruel Father

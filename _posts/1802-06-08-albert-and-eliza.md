@@ -1,3 +1,7 @@
+---  
+excerpt: "By Isaac Mitchell"  
+---  
+
 {% include toc %}
 
 ### Preface

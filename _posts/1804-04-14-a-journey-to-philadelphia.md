@@ -1,5 +1,5 @@
 ---  
-excerpt: "Test excerpt"  
+excerpt: "By Adelio"  
 ---  
 
 {% include toc %}

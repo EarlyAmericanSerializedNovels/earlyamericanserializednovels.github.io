@@ -11,9 +11,9 @@ In this section, we have produced a mock periodical for the Early American Seria
 
 ### EASN Periodical  
 
-Table of Contents, Vol. 1
+#### Table of Contents, Vol. 1
 
-<ul style="list-style: none; padding-left: 0;">  
+<ul class="unstyled unindented">  
 
 <li><a href="/assets/files/EASNissue01.pdf">EASN Issue 1</a>: Foresters I, The History of Maria Kittle I, Adventures in a Castle I, Albert and Eliza I</li>  
 <li><a href="/assets/files/EASNissue02.pdf">EASN Issue 2</a>: Foresters II, The History of Maria Kittle II, Adventures in a Castle II, Albert and Eliza II</li>  
@@ -31,4 +31,4 @@ Table of Contents, Vol. 1
 ![new york mag 1792.jpg](media/image1.jpeg){width="4.354166666666667in" height="7.8125in"}
 -->
 
-![image of New York Magazine table of contents](http://www.henrylivingston.com/writing/prose/images/published/nymlr-1791-jul-toc--p365-1000.jpg){:width="6.5in" height="11.056500437445319in"}
+![image of New York Magazine table of contents](http://www.henrylivingston.com/writing/prose/images/published/nymlr-1791-jul-toc--p365-1000.jpg)

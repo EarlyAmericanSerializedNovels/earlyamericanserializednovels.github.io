@@ -11,9 +11,9 @@ title                    : "Early American Serialized Novels"
 title_separator          : "-"
 name                     : "Early American Serialized Novels"
 description              : "A collection made by ISU's English 6625 seminar"
-url                      : # https://earlyamericanserializednovels.github.io
+url                      : https://earlyamericanserializednovels.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # earlyamericanserializednovels/earlyamericanserializednovels.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : earlyamericanserializednovels/earlyamericanserializednovels.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : # 200

@@ -22,6 +22,8 @@ Rather than manufacturing a simple unity through similarity or nationalist fello
 
 ### *The Foresters* Critical Bibliography 
 
+{% capture works-cited %}
+
 "Belknap, Jeremy (1744-1798), An Introduction to." *Literature Criticism from 1400 to 1800*, edited by Thomas J. Schoenberg and Lawrence J. Trudeau, vol. 115, Gale, 2005. *Literature Criticism 1400-1800 Online.*
 
 Clark, Jennifer. “John Bull’s American Connection: The Allegorical Interpretation of England and the Anglo-American Relationship.” *Huntington Library Quarterly*, vol. 53, no. 1, 1990, pp. 15-39.
@@ -63,6 +65,12 @@ Okker, Patricia. *Social Stories: The Magazine Novel in Nineteenth-Century Ameri
 Shelley, Fred. “Ebenezer Hazard: America’s First Historical Editor.” *The William and Mary Quarterly*, vol. 12, no. 1, 1955, pp. 44-73.
 
 Wright, Lyle H. “A Statistical Survey of American Fiction, 1774-1850.” *Huntington Library Quarterly*, vol. 2, no. 3, 1939, pp. 309-318.
+
+{% endcapture %}
+
+<div class="works-cited">
+  {{ works-cited | markdownify }}
+</div>
 
 ### Text 
 

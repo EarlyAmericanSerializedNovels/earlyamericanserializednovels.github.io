@@ -9,3 +9,35 @@
 @import "vendor/bigfoot/bigfoot-number.scss";
 @import "vendor/bigfoot/bigfoot-mixins.scss";
 @import "vendor/bigfoot/bigfoot-popover.scss";
+
+// Custom styles below  
+
+// This makes every paragraph indented, to make the site more like MLA style.
+
+.page__content p,
+.page__content p+p {
+  text-indent: $indent-var;
+  img {
+    text-indent: 0 !important;
+  }
+}
+
+// This makes hanging indentation and applies it to anything specified as a `works-cited` class.  
+
+.works-cited p,
+.works-cited p+p {
+  padding-left: $indent-var;
+  text-indent: -$indent-var;
+}
+
+// This removes bullet points or other indicators from any unordered list specified as a `unstyled` class.  
+
+ul.unstyled {
+  list-style: none;
+}
+
+// This removes indentation from any unordered list specified as an `unindented` class.  
+
+ul.unindented {
+  padding-left: 0; 
+}

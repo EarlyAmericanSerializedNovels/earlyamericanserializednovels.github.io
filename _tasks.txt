@@ -1,61 +1,79 @@
-# tasks still to do  
+# tasks  
 
-- [ ] update site written content  
-  - [ ] standardize titles of books  
-    - [ ] decide how we'll standardize titles  
-      - [ ] include "the," "a," etc at the beginning?  
-      - [ ] is there a "break point" we might use for the titles, such as at the first colon, comma, or etc?  
-    - [ ] implement changes  
-  - [ ] landing page description of collection  
-  - [ ] teaching tools description  
-  - [ ] post content  
-    - [ ] add _Eugenius & Selima_  
-    - [ ] excerpts per post  
-      - [ ] clarify what we want these to contain  
-    - [ ] check paragraph breaks  
-      - [ ] email asking each person to check their own  
-        - [ ] how should they notify me of where breaks should be if incorrect?  
-      - [ ] fix paragraphs in md files  
-    - [ ] clarify in _Foresters_ which footnote numbers are skipped in original  
-  - [ ] organize novels in chosen way  
-    - [x] email everyone asking how they'd prefer novels to be organized @done(2017-05-02)  
-    - [x] test organizing them by date published @done(2017-05-02)  
-    - [ ] re-organize as we decide @waiting  
- 
-- [ ] update images  
-  - [ ] decide where to put images  
-  - [ ] decide where to put captions and credits  
-    - [ ] preferably a caption per image that includes title, subject represented, source, and copyright info    
-    - [ ] do we want to have a global statement on the colophon or about us page that explains image use / offers to take down any that are under copyright?  
-  - [ ] impement desired changes    
+## tasks to do  
 
-- [ ] styling  
-  - [ ] css things  
-    - [ ] fix css classes  
-    - [ ] fix css/sass styles  
-    - [ ] Bigfoot.js button styling  
-    - [ ] increase text contrast throughout  
-    - [ ] add Google Fonts for computers that don't have Helvetica?  
-  - [ ] per post things  
-    - [ ] excerpts  
-    - [ ] reading time  
-    - [ ] remove social share buttons?  
+### site written content  
 
-- [ ] DH features  
-  - [ ] add timemapper.js  
-  - [ ] add issues of our teaching magazine  
+- [ ] standardize titles of books  
+  - [w] decide how we'll standardize titles  
+    - [x] include "the," "a," etc at the beginning for now  
+    - [ ] email Professor Lawrimore to ask if there is a customary "break point" we might use for the titles, such as at the first colon, comma, or etc? @email  
+  - [ ] implement final changes  
 
-- [ ] fix mobile view (doesn't work correctly on Safari on iPhone; "teaching" is cut off and menu icon doesn't expand)  
-  - [ ] see if viewport sizes are incorrect  
-  - [ ] contact theme developer as necessary  
+- [ ] teaching tools page  
+  - [ ] add description  
+  - [ ] links to our mock magazine issues  
+    - [x] add placeholder/proof of concept links  
+    - [ ] determine if we want both PDFs and docx links  
+    - [ ] fix styling of list  
+      - [x] done with inline style currently  
+      - [ ] make site-wide list styling for future use @low  
 
-- [ ] README file  
-  - [x] add initial README file with link to website @done(2017-05-02)   
-  - [ ] refine contents of README  
-    - [ ] use landing page language?  
+- [ ] novels/post content  
+  - [ ] add _Eugenius & Selima_  
+  - [ ] excerpts per post  
+    - [ ] clarify what we want these to contain  
+  - [ ] check paragraph breaks  
+    - [ ] email asking each person to check their own  
+      - [ ] how should they notify me of where breaks should be if incorrect?  
+    - [ ] fix paragraphs in md files  
+  - [ ] clarify in _Foresters_ which footnote numbers are skipped in original  
+- [ ] organize novels in chosen way  
+  - [x] email everyone asking how they'd prefer novels to be organized @done(2017-05-02)  
+  - [x] test organizing them by date published @done(2017-05-02)  
+  - [ ] re-organize as we decide @waiting  
+
+### site images  
+
+- [ ] decide where to put images  
+- [ ] decide where to put captions and credits  
+  - [ ] preferably a caption per image that includes title, subject represented, source, and copyright info    
+  - [ ] do we want to have a global statement on the colophon or about us page that explains image use / offers to take down any that are under copyright?  
+- [ ] impement desired changes    
+
+### site styling (mostly css, scss, html)  
+
+- [ ] css things  
+  - [ ] fix css classes  
+  - [ ] fix css/sass styles  
+  - [ ] Bigfoot.js button styling  
+  - [ ] increase text contrast throughout  
+  - [ ] add Google Fonts for computers that don't have Helvetica?  
+- [ ] per post things  
+  - [ ] excerpts  
+  - [ ] reading time  
+  - [ ] remove social share buttons?  
+
+### DH features  
+
+- [x] add timemapper.js @done(2017-05-07; this is when it works again via external link rather than iframe embed)  
+- [ ] add issues of our teaching magazine @next  
+
+### create site documentation  
 
 - [ ] create documentation for future site maintenance  
-  - [ ] decide where it will live (inside this repository? in a separate one? would an explanation of the process be useful as a part of the colophon?)
+  - [ ] decide where it will live (inside this repository? in a separate one? would an explanation of the process be useful as a part of the colophon?)  
+  - [ ] see if anyone besides Nicole, Ryan, and Professor Lawrimore are interested in this  
+  - [ ] figure out how & when we'll work on this  
+
+## tasks somewhat completed  
+
+- [s] update site written content @somewhatDone  
+  - [x] landing page description of collection @done   
+
+- [s] DH features  
+  - [x] add TimeMapper.js embed code@done(2017-0)  
+  - [x] figure out why TimeMapper.js stopped loading @done(2017-05-07. It's because of mixed https content. Here's a link: https://github.com/okfn/timemapper/issues/174)  
 
 ## tasks completed  
 
@@ -66,3 +84,10 @@
   - [x] use pandoc on novels @done  
   - [x] use TextWrangler to fix newlines with find & replace @done  
 - [x] ensure javascript will work in advance of adding DH features @done  
+
+- [x] README file @done(2017-05-07)  
+  - [x] add initial README file with link to website @done(2017-05-02)   
+  - [x] refine contents of README @done(2017-05-07)  
+    - [x] use landing page language? @done(2017-05-07)  
+
+- [x] fix mobile view (doesn't work correctly on Safari on iPhone; "teaching" is cut off and menu icon doesn't expand) @done(2017-05-07; problem was caused by duplicate javascript calls)  

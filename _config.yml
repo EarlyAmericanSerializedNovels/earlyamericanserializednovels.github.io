@@ -11,13 +11,13 @@ title                    : "Early American Serialized Novels"
 title_separator          : "-"
 name                     : "Early American Serialized Novels"
 description              : "A collection made by ISU's English 6625 seminar"
-url                      : https://earlyamericanserializednovels.github.io
+url                      : # https://earlyamericanserializednovels.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : earlyamericanserializednovels/earlyamericanserializednovels.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : # earlyamericanserializednovels/earlyamericanserializednovels.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : # 200
-lifespan                 : 2017 # adds number to copyright 
+lifespan                 : 2017 # adds numbers to copyright in footer. In future years, I'd suggesting adding them in this format: 2017-2019. This is a customization Ryan Randall initially made for his site. If a future EASN maintainer wants to remove it, do two things: 1. delete this line in the `_config.yml` file. 2. change `site.lifespan` in the `_includes/footer.html` file to `site.time`, which is the theme's default of asserting copyright as the most recent year the site has been compiled.
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:

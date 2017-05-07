@@ -1,5 +1,3 @@
 # earlyamericanserializednovels.github.io  
 
-This is a collection of early American serialized novels, made by Idaho State University's English 6625 seminar.  
-
-You can [view the website here](https://earlyamericanserializednovels.github.io).
+[_Early American Serial Novels_](https://earlyamericanserializednovels.github.io) is a project dedicated to publishing novels serialized in US newspapers and magazines from the 1780s to the 1820s. The project grows out of a graduate seminar on early American literature and the digital humanities at Idaho State University. Its main goal is to help expand the canon of early American novels by making public some of the forgotten early American novels initially written and published in serial form. All texts have been transcribed from the original documents and include prefatory material about the work, its publication, and its circulation. _EASN_ is a work-in-progress and we welcome comments and feedback.  

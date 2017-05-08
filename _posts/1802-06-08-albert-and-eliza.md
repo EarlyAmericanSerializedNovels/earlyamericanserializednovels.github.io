@@ -42,8 +42,7 @@ The Legend.
   
 ALBERT AND ELIZA.--A TALE  
   
-\[1. 8 June 1802\]  
-{: .installment-info}
+#### \[1. 8 June 1802\]  
   
 *The public are assured that the principal incidents *  
 *in the following story are literally true. They *  
@@ -158,8 +157,7 @@ ty, and became tranquil.
   
 *(To be continued.)*  
   
-\[2. 15 June 1802\]  
-{: .installment-info}
+#### \[2. 15 June 1802\]  
   
 AMONG those who visited at the house of  
 Eliza's uncle, was a young man of  
@@ -329,8 +327,7 @@ and immediately retired to her chamber.
   
 *(To be continued.)*  
   
-\[3. 22 June 1802\]  
-{: .installment-info}
+#### \[3. 22 June 1802\]  
   
 ELIZA flung herself upon her bed, but with-  
 out any inclination to sleep. Her spirits  
@@ -513,8 +510,7 @@ to his lodging.
   
 *(To be continued.)*  
   
-\[4. 29 June 1802\]  
-{: .installment-info}
+#### \[4. 29 June 1802\]  
   
 PALMER was not a libertine in principle.  
 He felt no extraordinary attachment to E-  
@@ -743,8 +739,7 @@ parted.
   
 *(To be continued.)*  
   
-\[5. 6 July 1802\]  
-{: .installment-info}
+#### \[5. 6 July 1802\]  
   
 FOR several days, Eliza did not leave her  
 chamber, and could scarcely be prevailed  
@@ -1139,8 +1134,7 @@ shriek of agony, and sunk, senseless, to the floor.
   
 *(To be continued.)*  
   
-\[6. 13 July 1802\]  
-{: .installment-info}
+#### \[6. 13 July 1802\]  
 
 The women flew to the assistance of Eliza,  
 raised her up, and conveyed her to another  

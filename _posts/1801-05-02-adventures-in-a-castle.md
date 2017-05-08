@@ -26,8 +26,7 @@ The *New-York Weekly Museum* was a four-page magazine intended largely for a fem
 
 ### Text  
 
-\[1. 2 May 1801\]  
-{: .installment-info}  
+#### \[1. 2 May 1801\]  
 
 Adventures in a Castle.  
   
@@ -151,8 +150,7 @@ had escaped, yet Henry might have fallen
 a victim to the plot, and had been removed  
 in the night.  
   
-\[2. 9 May 1801\]  
-{: .installment-info}
+#### \[2. 9 May 1801\]  
 
 (Continued.)  
   
@@ -311,8 +309,7 @@ glimmering of the light which Gerald car-
 ried in his hand, that he was in the vaults  
 of the castle. JULIUS.  
   
-\[3. 16 May 1801\]  
-{: .installment-info}
+#### \[3. 16 May 1801\]  
   
 (Continued.)  
   
@@ -593,8 +590,7 @@ misfortune from his memory, or at least de-
 stroyed the keenness of the injuries he had  
 received. JULIUS  
   
-\[4. 23 May 1801\]  
-{: .installment-info}  
+#### \[4. 23 May 1801\]  
 
 (Continued.)  
   
@@ -857,8 +853,7 @@ Duke, when, after receiving the request of
 his two friends, Louis racapitulated his ad-  
 ventures in the castle.  
   
-\[5. 30 May 1801\]  
-{: .installment-info}
+#### \[5. 30 May 1801\]  
   
 (Continued.)  
   
@@ -1107,8 +1102,7 @@ would have been a paricide, for he had a
 heart sufficiently corrupted to harbour the  
 attrocious design.  
   
-\[6. 6 June 1801\]  
-{: .installment-info}
+#### \[6. 6 June 1801\]  
   
 (Continued.)  
   
@@ -1287,8 +1281,7 @@ honour bound them to the Count, and they
 resolved to procure his pardon or perish  
 with him. JULIUS.  
   
-\[7. 13 June 1801\]  
-{: .installment-info}
+#### \[7. 13 June 1801\]  
   
 (Continued.)  
   
@@ -1588,8 +1581,7 @@ drew a dagger from his bosom, and dart-
 ed upon me, aimed it at my heart.  
 JULIUS  
   
-\[8. 20 June 1801\]  
-{: .installment-info}
+#### \[8. 20 June 1801\]  
   
 (Continued.)  
   

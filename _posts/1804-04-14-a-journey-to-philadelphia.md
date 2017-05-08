@@ -79,8 +79,7 @@ OF
   
 CHARLES COLEMAN SAUNDERS.  
   
-\[1. 14 April 1804\]  
-{: .installment-info}
+#### \[1. 14 April 1804\]  
   
 SOME time in the year--, I fre-  
 quently visit the prison at Philadelphia,  
@@ -429,8 +428,7 @@ he could enter mine.
   
 *(to be continued)*  
   
-\[ 2. 21 April 1804\]  
-{: .installment-info}  
+#### \[ 2. 21 April 1804\]  
   
 There is no fear which acts so  
 powerfully on the mind of man, as that  
@@ -676,8 +674,7 @@ and I became an apprentice.
   
 *(to be continued)*  
   
-\[ 3. 28 April 1804\]  
-{: .installment-info}
+#### \[ 3. 28 April 1804\]  
   
 TIME rolled rapidly along; my  
 exertions pleased Mr. BRANART; my  
@@ -851,8 +848,7 @@ cent.
   
 *(to be continued)*  
   
-\[ 4. 5 May 1804\]  
-{: .installment-info}
+#### \[ 4. 5 May 1804\]  
   
 THE day of trial came; I was con-  
 ducted to the bar of the supreme court;  
@@ -1018,8 +1014,7 @@ ing. --
   
 *(to be continued)*  
   
-\[ 5. 12 May 1804\]  
-{: .installment-info}
+#### \[ 5. 12 May 1804\]  
   
 SOME years after, I returned to  
 Philadelphia; the misfortunes of SAUN-  
@@ -1212,8 +1207,7 @@ in his own words.
   
 *(to be continued)*  
   
-\[ 6. 19 May 1804\]  
-{: .installment-info}
+#### \[ 6. 19 May 1804\]  
   
 “THAT the motives of my con-  
 duct, and that of my colleagues may be  

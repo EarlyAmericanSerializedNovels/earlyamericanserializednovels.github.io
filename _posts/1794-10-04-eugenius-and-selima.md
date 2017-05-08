@@ -35,13 +35,13 @@ given the “fatal effects of parental tyranny” that the author depicts.
 
 ### Text
 
-Saturday, October 4, 1794
-
 EUGENIUS AND SELIMA;
 
 OR, THE FATAL EFFECTS OF PARENTAL
 
 TYRANNY—*A Moral Story*
+
+#### Saturday, October 4, 1794
 
 EUGENIUS AND SELMIA
 
@@ -561,7 +561,7 @@ ces of his tutor bring him out of his chamber .
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Saturday, October 11, 1794
+#### Saturday, October 11, 1794
 
 The first opportunity he could take, with-
 

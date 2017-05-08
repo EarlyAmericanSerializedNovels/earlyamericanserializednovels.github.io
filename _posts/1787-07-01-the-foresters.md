@@ -78,8 +78,7 @@ Wright, Lyle H. “A Statistical Survey of American Fiction, 1774-1850.” *Hunt
 
 ### Text 
 
-\[1. June 1787\]
-{: .installment-info}
+#### \[1. June 1787\]
 
 THE FORESTERS,  
 *An* AMERICAN TALE, *being a Sequel to the History of* JOHN BULL, *the
@@ -373,8 +372,7 @@ same circumstances.
 
 \[*To be continued.*\]  
 
-\[2. July 1787\]  
-{: .installment-info}
+#### \[2. July 1787\]  
 
 The FORESTERS, *An* AMERICAN TALE, *being a Sequel to the History of*
 JOHN BULL, *the Clothier.*  
@@ -743,8 +741,7 @@ living wherever they could find land.
 
 \[*To be continued.*\]  
 
-\[3. August 1787\]  
-{: .installment-info}
+#### \[3. August 1787\]  
 
 The FORESTERS.  
 
@@ -1090,8 +1087,7 @@ quarrel between them.
 
 \[*To be continued.*\]  
 
-\[4. September 1787\]  
-{: .installment-info}
+#### \[4. September 1787\]  
 
 The FORESTERS  
 *An* AMERICAN TALE, *being a Sequel to the History of* JOHN BULL, *the
@@ -1478,8 +1474,7 @@ shall be given, by way of digression.
 
 \[*To be continued.*\]  
 
-\[5. October 1787\]  
-{: .installment-info}
+#### \[5. October 1787\]  
 
 The FORESTERS,
 
@@ -1849,8 +1844,7 @@ hopeful among the signs of the times.
 
 \[*To be continued.*\]  
 
-\[6. November 1787\]  
-{: .installment-info}
+#### \[6. November 1787\]  
 
 The FORESTERS,  
 
@@ -2207,8 +2201,7 @@ roof.
 
 \[*To be continued.*\]  
 
-\[7. December 1787\]  
-{: .installment-info}
+#### \[7. December 1787\]  
 
 The FORESTERS:  
 
@@ -2553,8 +2546,7 @@ with sorrow to the grave.
 
 \[*To be continued.*\]  
 
-\[8. February 1788\]  
-{: .installment-info}
+#### \[8. February 1788\]  
 
 The FORESTERS,  
 
@@ -2822,8 +2814,7 @@ in the following pages of this history.
 
 \[*To be continued*.\]  
 
-\[9. April 1788\]  
-{: .installment-info}
+#### \[9. April 1788\]  
 
 The FORESTERS,  
 

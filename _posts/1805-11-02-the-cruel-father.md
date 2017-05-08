@@ -34,8 +34,7 @@ Stearns, Bertha Monica. “[Early New York Magazine For Ladies](http://www.jstor
 
 ### Text  
   
-\[1. 2 November 1805\]  
-{: .installment-info}
+#### \[1. 2 November 1805\]  
   
 The Cruel Father  
   
@@ -283,8 +282,7 @@ and involuntarily dropped upon his knees.
   
 (TO BE CONTINUED)  
   
-\[2. 9 November 1805\]  
-{: .installment-info}
+#### \[2. 9 November 1805\]  
   
 (*Continued.*)  
   
@@ -528,8 +526,7 @@ has made your wishes the absolute rule of his life."
   
 (TO BE CONTINUED)  
   
-\[3. 16 November 1805\]  
-{: .installment-info}
+#### \[3. 16 November 1805\]  
   
 (*Continued*.)  
   
@@ -763,8 +760,7 @@ that unfortunate infant still endears me to life!"
   
 (*To be continued in our next.*)  
   
-\[4. 23 November 1805\]  
-{: .installment-info}
+#### \[4. 23 November 1805\]  
   
 (*Concluded.*)  
   

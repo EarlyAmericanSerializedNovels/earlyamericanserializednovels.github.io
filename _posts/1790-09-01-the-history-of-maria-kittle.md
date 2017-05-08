@@ -60,8 +60,7 @@ Weiss, Stanley Buck. "The Dark Cloud of Jeffersonian Philanthropy: Native Americ
 
 New York Magazine, or Literary Repository (1790-1797)  
   
-\[1. September 1790\]  
-{: .installment-info}
+#### \[1. September 1790\]  
   
 For the New-York Magazine.  
   
@@ -566,8 +565,7 @@ more!
   
 *(To be continued.)*  
   
-\[2. October 1790\]  
-{: .installment-info}
+#### \[2. October 1790\]  
   
 Maria then walked sadly back  
 again, and having assembled  
@@ -1054,8 +1052,7 @@ yet lightened the obligation.
   
 *(To be continued.)*  
   
-\[3. November 1790\]  
-{: .installment-info}
+#### \[3. November 1790\]  
   
 But doubtless, my dear, your  
 generous sensibility is alarmed  
@@ -1578,8 +1575,7 @@ no more.
   
 *(To be continued.)*  
   
-\[4. December 1790\]  
-{: .installment-info}  
+#### \[4. December 1790\]  
 
 After their exit the Governor  
 Turning round to Maria and  
@@ -1890,8 +1886,7 @@ began--
   
 *(To be continued.)*  
   
-\[5. January 1791\]  
-{: .installment-info}
+#### \[5. January 1791\]  
   
 “I am the daughter of a poor  
 clergyman, who being con-  

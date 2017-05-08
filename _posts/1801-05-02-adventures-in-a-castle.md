@@ -27,7 +27,8 @@ The *New-York Weekly Museum* was a four-page magazine intended largely for a fem
 ### Text  
 
 \[1. 2 May 1801\]  
-  
+{: .installment-info}  
+
 Adventures in a Castle.  
   
 An Original Story.  
@@ -151,7 +152,8 @@ a victim to the plot, and had been removed
 in the night.  
   
 \[2. 9 May 1801\]  
-  
+{: .installment-info}
+
 (Continued.)  
   
 THE moment he suggested the thought,  
@@ -310,6 +312,7 @@ ried in his hand, that he was in the vaults
 of the castle. JULIUS.  
   
 \[3. 16 May 1801\]  
+{: .installment-info}
   
 (Continued.)  
   
@@ -591,7 +594,8 @@ stroyed the keenness of the injuries he had
 received. JULIUS  
   
 \[4. 23 May 1801\]  
-  
+{: .installment-info}  
+
 (Continued.)  
   
 MEANWHILE the Count de Vauban,  
@@ -854,6 +858,7 @@ his two friends, Louis racapitulated his ad-
 ventures in the castle.  
   
 \[5. 30 May 1801\]  
+{: .installment-info}
   
 (Continued.)  
   
@@ -1103,6 +1108,7 @@ heart sufficiently corrupted to harbour the
 attrocious design.  
   
 \[6. 6 June 1801\]  
+{: .installment-info}
   
 (Continued.)  
   
@@ -1282,6 +1288,7 @@ resolved to procure his pardon or perish
 with him. JULIUS.  
   
 \[7. 13 June 1801\]  
+{: .installment-info}
   
 (Continued.)  
   
@@ -1582,6 +1589,7 @@ ed upon me, aimed it at my heart.
 JULIUS  
   
 \[8. 20 June 1801\]  
+{: .installment-info}
   
 (Continued.)  
   

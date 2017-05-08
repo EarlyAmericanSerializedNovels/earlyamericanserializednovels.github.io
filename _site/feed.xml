@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="https://earlyamericanserializednovels.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://earlyamericanserializednovels.github.io/" rel="alternate" type="text/html" /><updated>2017-05-07T17:03:32-06:00</updated><id>https://earlyamericanserializednovels.github.io/</id><title type="html">Early American Serialized Novels</title><subtitle>A collection made by ISU's English 6625 seminar</subtitle><author><name>Early American Serialized Novels</name></author><entry><title type="html">The Cruel Father</title><link href="https://earlyamericanserializednovels.github.io/the-cruel-father/" rel="alternate" type="text/html" title="The Cruel Father" /><published>1805-11-02T00:00:00-07:00</published><updated>1805-11-02T00:00:00-07:00</updated><id>https://earlyamericanserializednovels.github.io/the-cruel-father</id><content type="html" xml:base="https://earlyamericanserializednovels.github.io/the-cruel-father/">&lt;nav class=&quot;toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="https://earlyamericanserializednovels.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://earlyamericanserializednovels.github.io/" rel="alternate" type="text/html" /><updated>2017-05-07T23:42:41-06:00</updated><id>https://earlyamericanserializednovels.github.io/</id><title type="html">Early American Serialized Novels</title><subtitle>A collection made by ISU's English 6625 seminar</subtitle><author><name>Early American Serialized Novels</name></author><entry><title type="html">The Cruel Father</title><link href="https://earlyamericanserializednovels.github.io/the-cruel-father/" rel="alternate" type="text/html" title="The Cruel Father" /><published>1805-11-02T00:00:00-07:00</published><updated>1805-11-02T00:00:00-07:00</updated><id>https://earlyamericanserializednovels.github.io/the-cruel-father</id><content type="html" xml:base="https://earlyamericanserializednovels.github.io/the-cruel-father/">&lt;nav class=&quot;toc&quot;&gt;
   &lt;header&gt;&lt;h4 class=&quot;nav__title&quot;&gt;&lt;i class=&quot;fa fa-file-text&quot;&gt;&lt;/i&gt; On This Page&lt;/h4&gt;&lt;/header&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#preface-the-cruel-father&quot; id=&quot;markdown-toc-preface-the-cruel-father&quot;&gt;Preface: The Cruel Father&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#works-consulted&quot; id=&quot;markdown-toc-works-consulted&quot;&gt;Works Consulted&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#text&quot; id=&quot;markdown-toc-text&quot;&gt;Text&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -23,13 +24,18 @@
 
 &lt;p&gt;In serial form, this story served to entertain readers. Readers of either gender would enjoy the familiarity of the common morality tale—warning of greed, avarice, cruelty. The installments ended in the midst of moments of suspense, urging readers to buy the next installment in order to find out what happened next. The common elements and themes in the story made it a good choice for serializing, as the plotlines were recognized and familiar, helping readers easily conjecture what was coming next. The sentimentality of the story, the romance and doomed love affair would also appeal to the female readership the &lt;em&gt;New-York Weekly&lt;/em&gt; aimed to serve.&lt;/p&gt;
 
-&lt;p&gt;Sources Consulted&lt;/p&gt;
+&lt;h3 id=&quot;works-consulted&quot;&gt;Works Consulted&lt;/h3&gt;
 
+&lt;div class=&quot;works-cited&quot;&gt;
+  
 &lt;p&gt;Stearns, Bertha Monica. “&lt;a href=&quot;http://www.jstor.org/stable/10.2307/24470494&quot;&gt;Early New York Magazine For Ladies&lt;/a&gt;” &lt;em&gt;New York History&lt;/em&gt;, 14.1 (1933): 32-41.&lt;/p&gt;
+
+
+&lt;/div&gt;
 
 &lt;h3 id=&quot;text&quot;&gt;Text&lt;/h3&gt;
 
-&lt;p&gt;[1. 2 November 1805]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[1. 2 November 1805]&lt;/p&gt;
 
 &lt;p&gt;The Cruel Father&lt;/p&gt;
 
@@ -277,7 +283,7 @@ and involuntarily dropped upon his knees.&lt;/p&gt;
 
 &lt;p&gt;(TO BE CONTINUED)&lt;/p&gt;
 
-&lt;p&gt;[2. 9 November 1805]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[2. 9 November 1805]&lt;/p&gt;
 
 &lt;p&gt;(&lt;em&gt;Continued.&lt;/em&gt;)&lt;/p&gt;
 
@@ -521,7 +527,7 @@ has made your wishes the absolute rule of his life.”&lt;/p&gt;
 
 &lt;p&gt;(TO BE CONTINUED)&lt;/p&gt;
 
-&lt;p&gt;[3. 16 November 1805]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[3. 16 November 1805]&lt;/p&gt;
 
 &lt;p&gt;(&lt;em&gt;Continued&lt;/em&gt;.)&lt;/p&gt;
 
@@ -755,7 +761,7 @@ that unfortunate infant still endears me to life!”&lt;/p&gt;
 
 &lt;p&gt;(&lt;em&gt;To be continued in our next.&lt;/em&gt;)&lt;/p&gt;
 
-&lt;p&gt;[4. 23 November 1805]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[4. 23 November 1805]&lt;/p&gt;
 
 &lt;p&gt;(&lt;em&gt;Concluded.&lt;/em&gt;)&lt;/p&gt;
 
@@ -1008,10 +1014,11 @@ dleton of three hundred a year.&lt;/p&gt;
       &lt;p&gt;In original, word appears without capitalization&amp;nbsp;&lt;a href=&quot;#fnref:22&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Early American Serialized Novels</name></author><summary type="html">On This Page</summary></entry><entry><title type="html">A Journey To Philadelphia</title><link href="https://earlyamericanserializednovels.github.io/a-journey-to-philadelphia/" rel="alternate" type="text/html" title="A Journey To Philadelphia" /><published>1804-04-14T00:00:00-07:00</published><updated>1804-04-14T00:00:00-07:00</updated><id>https://earlyamericanserializednovels.github.io/a-journey-to-philadelphia</id><content type="html" xml:base="https://earlyamericanserializednovels.github.io/a-journey-to-philadelphia/">&lt;nav class=&quot;toc&quot;&gt;
+&lt;/div&gt;</content><author><name>Early American Serialized Novels</name></author><summary type="html">Published Anonymously</summary></entry><entry><title type="html">A Journey To Philadelphia</title><link href="https://earlyamericanserializednovels.github.io/a-journey-to-philadelphia/" rel="alternate" type="text/html" title="A Journey To Philadelphia" /><published>1804-04-14T00:00:00-07:00</published><updated>1804-04-14T00:00:00-07:00</updated><id>https://earlyamericanserializednovels.github.io/a-journey-to-philadelphia</id><content type="html" xml:base="https://earlyamericanserializednovels.github.io/a-journey-to-philadelphia/">&lt;nav class=&quot;toc&quot;&gt;
   &lt;header&gt;&lt;h4 class=&quot;nav__title&quot;&gt;&lt;i class=&quot;fa fa-file-text&quot;&gt;&lt;/i&gt; On This Page&lt;/h4&gt;&lt;/header&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#preface&quot; id=&quot;markdown-toc-preface&quot;&gt;Preface&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#works-consulted&quot; id=&quot;markdown-toc-works-consulted&quot;&gt;Works Consulted:&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#text&quot; id=&quot;markdown-toc-text&quot;&gt;Text&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -1048,8 +1055,10 @@ accomplishments.&lt;/p&gt;
 
 &lt;p&gt;Shortly after its appearance in &lt;em&gt;The Philadelphia Repository and Weekly Register, A Journey to Philadelphia&lt;/em&gt; was collected and published as a book by publishers Lincoln and Gleason in 1804. Included in the book was &lt;em&gt;An Interesting Narrative,&lt;/em&gt; another short, anonymously printed tale. That &lt;em&gt;A Journey to Philadelphia&lt;/em&gt; was collected and sold as a text so soon after its initial publication suggests its popularity.&lt;/p&gt;
 
-&lt;p&gt;Works Consulted:&lt;/p&gt;
+&lt;h3 id=&quot;works-consulted&quot;&gt;Works Consulted:&lt;/h3&gt;
 
+&lt;div class=&quot;works-cited&quot;&gt;
+  
 &lt;p&gt;Adelio. &lt;em&gt;A Journey to Philadelphia. Philadelphia Repository and Weekly Register&lt;/em&gt;, 1804.&lt;/p&gt;
 
 &lt;p&gt;Brown, Charles. &lt;em&gt;Wieland.&lt;/em&gt; Ægypan Press, 2006.&lt;/p&gt;
@@ -1070,6 +1079,9 @@ accomplishments.&lt;/p&gt;
 
 &lt;p&gt;Waterman, Bryan. “Introduction: Reading Early America with Charles Brockden Brown.” &lt;em&gt;Early American Literature,&lt;/em&gt; vol. 44, no. 2, 2009, pp. 235-242.&lt;/p&gt;
 
+
+&lt;/div&gt;
+
 &lt;h3 id=&quot;text&quot;&gt;Text&lt;/h3&gt;
 
 &lt;p&gt;&lt;em&gt;AN ORIGINAL TALE– BY ADELIO.&lt;/em&gt;&lt;/p&gt;
@@ -1086,7 +1098,7 @@ accomplishments.&lt;/p&gt;
 
 &lt;p&gt;CHARLES COLEMAN SAUNDERS.&lt;/p&gt;
 
-&lt;p&gt;[1. 14 April 1804]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[1. 14 April 1804]&lt;/p&gt;
 
 &lt;p&gt;SOME time in the year–, I fre-&lt;br /&gt;
 quently visit the prison at Philadelphia,&lt;br /&gt;
@@ -1435,7 +1447,7 @@ he could enter mine.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;(to be continued)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;[ 2. 21 April 1804]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[ 2. 21 April 1804]&lt;/p&gt;
 
 &lt;p&gt;There is no fear which acts so&lt;br /&gt;
 powerfully on the mind of man, as that&lt;br /&gt;
@@ -1681,7 +1693,7 @@ and I became an apprentice.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;(to be continued)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;[ 3. 28 April 1804]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[ 3. 28 April 1804]&lt;/p&gt;
 
 &lt;p&gt;TIME rolled rapidly along; my&lt;br /&gt;
 exertions pleased Mr. BRANART; my&lt;br /&gt;
@@ -1855,7 +1867,7 @@ cent.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;(to be continued)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;[ 4. 5 May 1804]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[ 4. 5 May 1804]&lt;/p&gt;
 
 &lt;p&gt;THE day of trial came; I was con-&lt;br /&gt;
 ducted to the bar of the supreme court;&lt;br /&gt;
@@ -2021,7 +2033,7 @@ ing. –&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;(to be continued)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;[ 5. 12 May 1804]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[ 5. 12 May 1804]&lt;/p&gt;
 
 &lt;p&gt;SOME years after, I returned to&lt;br /&gt;
 Philadelphia; the misfortunes of SAUN-&lt;br /&gt;
@@ -2214,7 +2226,7 @@ in his own words.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;(to be continued)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;[ 6. 19 May 1804]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[ 6. 19 May 1804]&lt;/p&gt;
 
 &lt;p&gt;“THAT the motives of my con-&lt;br /&gt;
 duct, and that of my colleagues may be&lt;br /&gt;
@@ -2393,10 +2405,11 @@ ion and decency. [footnote from original text]&lt;br /&gt;
 [^4]: Misspelling of “verdict”&amp;nbsp;&lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Early American Serialized Novels</name></author><summary type="html">Test excerpt</summary></entry><entry><title type="html">Albert And Eliza</title><link href="https://earlyamericanserializednovels.github.io/albert-and-eliza/" rel="alternate" type="text/html" title="Albert And Eliza" /><published>1802-06-08T00:00:00-07:00</published><updated>1802-06-08T00:00:00-07:00</updated><id>https://earlyamericanserializednovels.github.io/albert-and-eliza</id><content type="html" xml:base="https://earlyamericanserializednovels.github.io/albert-and-eliza/">&lt;nav class=&quot;toc&quot;&gt;
+&lt;/div&gt;</content><author><name>Early American Serialized Novels</name></author><summary type="html">By Adelio</summary></entry><entry><title type="html">Albert And Eliza</title><link href="https://earlyamericanserializednovels.github.io/albert-and-eliza/" rel="alternate" type="text/html" title="Albert And Eliza" /><published>1802-06-08T00:00:00-07:00</published><updated>1802-06-08T00:00:00-07:00</updated><id>https://earlyamericanserializednovels.github.io/albert-and-eliza</id><content type="html" xml:base="https://earlyamericanserializednovels.github.io/albert-and-eliza/">&lt;nav class=&quot;toc&quot;&gt;
   &lt;header&gt;&lt;h4 class=&quot;nav__title&quot;&gt;&lt;i class=&quot;fa fa-file-text&quot;&gt;&lt;/i&gt; On This Page&lt;/h4&gt;&lt;/header&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#preface&quot; id=&quot;markdown-toc-preface&quot;&gt;Preface&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#works-consulted&quot; id=&quot;markdown-toc-works-consulted&quot;&gt;Works Consulted&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#text&quot; id=&quot;markdown-toc-text&quot;&gt;Text&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -2414,8 +2427,10 @@ ion and decency. [footnote from original text]&lt;br /&gt;
 
 &lt;p&gt;As with other serialized works, &lt;em&gt;Albert and Eliza&lt;/em&gt; is also composed with complex subplots. The main story is about a young woman named Eliza’s fidelity and faithfulness to her betrothed Albert. Compared to the topics surrounding Albert and Eliza, such as fidelity, sentiment, and virtue, other characters raise rather proactive issues. For example, when it is revealed at the end of the novel that Blake, one of Eliza’s admirers, had married Ms. Smith without knowing the fact that she was actually his half-sister or when Blake kills his half-brother Palmer in a duel raise the issue of incest and fratricide. Along with the complex subplots, the lapses between each installment create curiosity and anticipation of the next story which is another feature of serialization. Whereas book readers can jump right into the ending, serialization creates terms between each episode and extends the reading experience to readers. &lt;em&gt;Albert and Eliza&lt;/em&gt; also has intentional breaks between installments that heighten the tension in the story.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Works Consulted&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;works-consulted&quot;&gt;Works Consulted&lt;/h3&gt;
 
+&lt;div class=&quot;works-cited&quot;&gt;
+  
 &lt;p&gt;Davidson, Cathy N. &lt;em&gt;Revolution and the World: The Rise of the Novel in America&lt;/em&gt;. Oxford UP, 2004.&lt;/p&gt;
 
 &lt;p&gt;Fichtelberg, Joseph. “The Sentimental Economy of Isaac Mitchell’s &lt;em&gt;The Asylum.” Early American Literature,&lt;/em&gt; no. 32, vol. 1, 1997, pp 1-19.&lt;/p&gt;
@@ -2426,13 +2441,16 @@ ion and decency. [footnote from original text]&lt;br /&gt;
 
 &lt;p&gt;Platt, Edmund. &lt;em&gt;The Eagle’s History of Poughkeepsie: From the Earliest Settlements 1683 to 1905.&lt;/em&gt; Platt and Platt, 1905.&lt;/p&gt;
 
+
+&lt;/div&gt;
+
 &lt;h3 id=&quot;text&quot;&gt;Text&lt;/h3&gt;
 
 &lt;p&gt;The Legend.&lt;/p&gt;
 
 &lt;p&gt;ALBERT AND ELIZA.–A TALE&lt;/p&gt;
 
-&lt;p&gt;[1. 8 June 1802]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[1. 8 June 1802]&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;The public are assured that the principal incidents *&lt;br /&gt;
 *in the following story are literally true. They *&lt;br /&gt;
@@ -2547,7 +2565,7 @@ ty, and became tranquil.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;(To be continued.)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;[2. 15 June 1802]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[2. 15 June 1802]&lt;/p&gt;
 
 &lt;p&gt;AMONG those who visited at the house of&lt;br /&gt;
 Eliza’s uncle, was a young man of&lt;br /&gt;
@@ -2717,7 +2735,7 @@ and immediately retired to her chamber.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;(To be continued.)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;[3. 22 June 1802]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[3. 22 June 1802]&lt;/p&gt;
 
 &lt;p&gt;ELIZA flung herself upon her bed, but with-&lt;br /&gt;
 out any inclination to sleep. Her spirits&lt;br /&gt;
@@ -2900,7 +2918,7 @@ to his lodging.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;(To be continued.)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;[4. 29 June 1802]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[4. 29 June 1802]&lt;/p&gt;
 
 &lt;p&gt;PALMER was not a libertine in principle.&lt;br /&gt;
 He felt no extraordinary attachment to E-&lt;br /&gt;
@@ -3129,7 +3147,7 @@ parted.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;(To be continued.)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;[5. 6 July 1802]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[5. 6 July 1802]&lt;/p&gt;
 
 &lt;p&gt;FOR several days, Eliza did not leave her&lt;br /&gt;
 chamber, and could scarcely be prevailed&lt;br /&gt;
@@ -3524,8 +3542,9 @@ shriek of agony, and sunk, senseless, to the floor.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;(To be continued.)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;[6. 13 July 1802]&lt;br /&gt;
-The women flew to the assistance of Eliza,&lt;br /&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[6. 13 July 1802]&lt;/p&gt;
+
+&lt;p&gt;The women flew to the assistance of Eliza,&lt;br /&gt;
 raised her up, and conveyed her to another&lt;br /&gt;
 room. The house was in confusion. No one&lt;br /&gt;
 knew the cause of her sudden illness. Albert was&lt;br /&gt;
@@ -3841,7 +3860,7 @@ powers of tale and invention, take up the subject,&lt;br /&gt;
 he might, by the introduction of a few new cha-&lt;br /&gt;
 racters, transferment of objects, and variation of&lt;br /&gt;
 scenery, form, perhaps, as interesting a novel as&lt;br /&gt;
-any of American manufacture.]&lt;/p&gt;</content><author><name>Early American Serialized Novels</name></author><summary type="html">On This Page</summary></entry><entry><title type="html">Adventures In A Castle</title><link href="https://earlyamericanserializednovels.github.io/adventures-in-a-castle/" rel="alternate" type="text/html" title="Adventures In A Castle" /><published>1801-05-02T00:00:00-07:00</published><updated>1801-05-02T00:00:00-07:00</updated><id>https://earlyamericanserializednovels.github.io/adventures-in-a-castle</id><content type="html" xml:base="https://earlyamericanserializednovels.github.io/adventures-in-a-castle/">&lt;nav class=&quot;toc&quot;&gt;
+any of American manufacture.]&lt;/p&gt;</content><author><name>Early American Serialized Novels</name></author><summary type="html">By Isaac Mitchell</summary></entry><entry><title type="html">Adventures In A Castle</title><link href="https://earlyamericanserializednovels.github.io/adventures-in-a-castle/" rel="alternate" type="text/html" title="Adventures In A Castle" /><published>1801-05-02T00:00:00-07:00</published><updated>1801-05-02T00:00:00-07:00</updated><id>https://earlyamericanserializednovels.github.io/adventures-in-a-castle</id><content type="html" xml:base="https://earlyamericanserializednovels.github.io/adventures-in-a-castle/">&lt;nav class=&quot;toc&quot;&gt;
   &lt;header&gt;&lt;h4 class=&quot;nav__title&quot;&gt;&lt;i class=&quot;fa fa-file-text&quot;&gt;&lt;/i&gt; On This Page&lt;/h4&gt;&lt;/header&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#preface&quot; id=&quot;markdown-toc-preface&quot;&gt;Preface&lt;/a&gt;&lt;/li&gt;
@@ -3872,7 +3891,7 @@ any of American manufacture.]&lt;/p&gt;</content><author><name>Early American Se
 
 &lt;h3 id=&quot;text&quot;&gt;Text&lt;/h3&gt;
 
-&lt;p&gt;[1. 2 May 1801]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[1. 2 May 1801]&lt;/p&gt;
 
 &lt;p&gt;Adventures in a Castle.&lt;/p&gt;
 
@@ -3996,7 +4015,7 @@ had escaped, yet Henry might have fallen&lt;br /&gt;
 a victim to the plot, and had been removed&lt;br /&gt;
 in the night.&lt;/p&gt;
 
-&lt;p&gt;[2. 9 May 1801]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[2. 9 May 1801]&lt;/p&gt;
 
 &lt;p&gt;(Continued.)&lt;/p&gt;
 
@@ -4155,7 +4174,7 @@ glimmering of the light which Gerald car-&lt;br /&gt;
 ried in his hand, that he was in the vaults&lt;br /&gt;
 of the castle. JULIUS.&lt;/p&gt;
 
-&lt;p&gt;[3. 16 May 1801]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[3. 16 May 1801]&lt;/p&gt;
 
 &lt;p&gt;(Continued.)&lt;/p&gt;
 
@@ -4436,7 +4455,7 @@ misfortune from his memory, or at least de-&lt;br /&gt;
 stroyed the keenness of the injuries he had&lt;br /&gt;
 received. JULIUS&lt;/p&gt;
 
-&lt;p&gt;[4. 23 May 1801]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[4. 23 May 1801]&lt;/p&gt;
 
 &lt;p&gt;(Continued.)&lt;/p&gt;
 
@@ -4699,7 +4718,7 @@ Duke, when, after receiving the request of&lt;br /&gt;
 his two friends, Louis racapitulated his ad-&lt;br /&gt;
 ventures in the castle.&lt;/p&gt;
 
-&lt;p&gt;[5. 30 May 1801]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[5. 30 May 1801]&lt;/p&gt;
 
 &lt;p&gt;(Continued.)&lt;/p&gt;
 
@@ -4948,7 +4967,7 @@ would have been a paricide, for he had a&lt;br /&gt;
 heart sufficiently corrupted to harbour the&lt;br /&gt;
 attrocious design.&lt;/p&gt;
 
-&lt;p&gt;[6. 6 June 1801]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[6. 6 June 1801]&lt;/p&gt;
 
 &lt;p&gt;(Continued.)&lt;/p&gt;
 
@@ -5127,7 +5146,7 @@ honour bound them to the Count, and they&lt;br /&gt;
 resolved to procure his pardon or perish&lt;br /&gt;
 with him. JULIUS.&lt;/p&gt;
 
-&lt;p&gt;[7. 13 June 1801]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[7. 13 June 1801]&lt;/p&gt;
 
 &lt;p&gt;(Continued.)&lt;/p&gt;
 
@@ -5427,7 +5446,7 @@ drew a dagger from his bosom, and dart-&lt;br /&gt;
 ed upon me, aimed it at my heart.&lt;br /&gt;
 JULIUS&lt;/p&gt;
 
-&lt;p&gt;[8. 20 June 1801]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[8. 20 June 1801]&lt;/p&gt;
 
 &lt;p&gt;(Continued.)&lt;/p&gt;
 
@@ -5644,11 +5663,1045 @@ that often insinuate a degree of profanity into the mind,&lt;br /&gt;
 and with which tales and novels frequently abound,&lt;br /&gt;
 Should Julius continue his correspondence, as he has&lt;br /&gt;
 hinted to the editor may be the case, he will always meet&lt;br /&gt;
-with merited attention.]&lt;/p&gt;</content><author><name>Early American Serialized Novels</name></author><summary type="html">On This Page</summary></entry><entry><title type="html">The History Of Maria Kittle</title><link href="https://earlyamericanserializednovels.github.io/the-history-of-maria-kittle/" rel="alternate" type="text/html" title="The History Of Maria Kittle" /><published>1790-09-01T00:00:00-07:00</published><updated>1790-09-01T00:00:00-07:00</updated><id>https://earlyamericanserializednovels.github.io/the-history-of-maria-kittle</id><content type="html" xml:base="https://earlyamericanserializednovels.github.io/the-history-of-maria-kittle/">&lt;nav class=&quot;toc&quot;&gt;
+with merited attention.]&lt;/p&gt;</content><author><name>Early American Serialized Novels</name></author><summary type="html">By Julius</summary></entry><entry><title type="html">Eugenius And Selima</title><link href="https://earlyamericanserializednovels.github.io/eugenius-and-selima/" rel="alternate" type="text/html" title="Eugenius And Selima" /><published>1794-10-04T00:00:00-07:00</published><updated>1794-10-04T00:00:00-07:00</updated><id>https://earlyamericanserializednovels.github.io/eugenius-and-selima</id><content type="html" xml:base="https://earlyamericanserializednovels.github.io/eugenius-and-selima/">&lt;nav class=&quot;toc&quot;&gt;
   &lt;header&gt;&lt;h4 class=&quot;nav__title&quot;&gt;&lt;i class=&quot;fa fa-file-text&quot;&gt;&lt;/i&gt; On This Page&lt;/h4&gt;&lt;/header&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#preface&quot; id=&quot;markdown-toc-preface&quot;&gt;Preface&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#text&quot; id=&quot;markdown-toc-text&quot;&gt;Text&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/nav&gt;
+
+&lt;h3 id=&quot;preface&quot;&gt;Preface&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;The Weekly Museum&lt;/em&gt; in which &lt;em&gt;Eugenius and Selima; or the Fatal Effects
+of Parental Tyranny&lt;/em&gt; appears was a small magazine produced out of New
+York and ran from 1791 to 1805. Consisting of only four pages per issue,
+&lt;em&gt;The Weekly Museum&lt;/em&gt; was designed for a female audience. The magazine
+included items generally of a sentimental nature or that were meant for
+moral instruction. Local and foreign news, poetry, reviews of plays,
+advertisements, etc. were also contained within the magazine.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Eugenius and Selima&lt;/em&gt; originally appeared in Robinson’s &lt;em&gt;Lady’s
+Magazine; or, Entertaining Companion for the Female Sex&lt;/em&gt; which was based
+out of London and ran from 1770 to 1832. This publication was clearly
+aimed at a female audience as well. What makes it unique for the time
+period, and a point of pride for the publication, is that the content
+was also produced by women, though these women were rarely paid for
+their contributions. The &lt;em&gt;Lady’s Magazine&lt;/em&gt; published &lt;em&gt;Eugenius and
+Selima&lt;/em&gt; in the spring of 1794, and &lt;em&gt;The Weekly Museum&lt;/em&gt; later picked it
+up in October of the same year.&lt;/p&gt;
+
+&lt;p&gt;In terms of genre, &lt;em&gt;Eugenius and Selima&lt;/em&gt; would be considered a
+sentimental novel. At the time in which it was written, companionate
+marriage was becoming more popular. This means individuals were choosing
+their marriage partners based on love as opposed to parental dictation.
+Not surprisingly, this was sometimes met with resistance from the older
+generation. The content of &lt;em&gt;Eugenius and Selima&lt;/em&gt; clearly reflects this.
+The author appears to be strongly advocating for companionate marriage
+given the “fatal effects of parental tyranny” that the author depicts.&lt;/p&gt;
+
+&lt;h3 id=&quot;text&quot;&gt;Text&lt;/h3&gt;
+
+&lt;p&gt;Saturday, October 4, 1794&lt;/p&gt;
+
+&lt;p&gt;EUGENIUS AND SELIMA;&lt;/p&gt;
+
+&lt;p&gt;OR, THE FATAL EFFECTS OF PARENTAL&lt;/p&gt;
+
+&lt;p&gt;TYRANNY—&lt;em&gt;A Moral Story&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;EUGENIUS AND SELMIA&lt;/p&gt;
+
+&lt;p&gt;A Gentleman of fortune in this metropo-&lt;/p&gt;
+
+&lt;p&gt;lis, (whom it will not be improper to&lt;/p&gt;
+
+&lt;p&gt;distinguish by the name of Morosus) sent&lt;/p&gt;
+
+&lt;p&gt;his only son, Eugenius to the University;&lt;/p&gt;
+
+&lt;p&gt;there to finish his studies under the care of&lt;/p&gt;
+
+&lt;p&gt;a tutor.&lt;/p&gt;
+
+&lt;p&gt;The fortune and engaging carriage of&lt;/p&gt;
+
+&lt;p&gt;this young gentleman rendered him an agree-&lt;/p&gt;
+
+&lt;p&gt;able guest to all the polite and gay assemblies&lt;/p&gt;
+
+&lt;p&gt;of the place, and his sprightliness and viva&lt;/p&gt;
+
+&lt;p&gt;city a welcome visitor of the houses of the&lt;/p&gt;
+
+&lt;p&gt;more private persons of fashion.&lt;/p&gt;
+
+&lt;p&gt;Being one night at a card party at Mrs.&lt;/p&gt;
+
+&lt;p&gt;R—’s, he was introduced to Mrs. C—,&lt;/p&gt;
+
+&lt;p&gt;and her beautiful daughter Selima. Eugenius&lt;/p&gt;
+
+&lt;p&gt;was struck at first sight with the charms of&lt;/p&gt;
+
+&lt;p&gt;this young lady, and felt a pleasing sensation&lt;/p&gt;
+
+&lt;p&gt;in contemplating her perfections. Mrs.&lt;/p&gt;
+
+&lt;p&gt;R—, observing his embarrassment, took&lt;/p&gt;
+
+&lt;p&gt;him by the hand, and presented him to the&lt;/p&gt;
+
+&lt;p&gt;lady and her daughter. “I introduce to&lt;/p&gt;
+
+&lt;p&gt;you,” said she, addressing herself to the lat-&lt;/p&gt;
+
+&lt;p&gt;ter, “a young gentleman who has long wish-&lt;/p&gt;
+
+&lt;p&gt;ed for the pleasure of being in your compa-&lt;/p&gt;
+
+&lt;p&gt;ny.” “Madam,” said he, bowing and em-&lt;/p&gt;
+
+&lt;p&gt;boldened by what Mrs. R— had said, “‘tis&lt;/p&gt;
+
+&lt;p&gt;not alone to be in your company that I desire;&lt;/p&gt;
+
+&lt;p&gt;I beg leave to be permitted to increase[sp] the&lt;/p&gt;
+
+&lt;p&gt;number of your admirers.” He now paus-&lt;/p&gt;
+
+&lt;p&gt;ed, but perceiving the ladies had left them&lt;/p&gt;
+
+&lt;p&gt;together, he was resuming his discourse,&lt;/p&gt;
+
+&lt;p&gt;when she interrupted him. “You confound&lt;/p&gt;
+
+&lt;p&gt;me, sir,” said she, “as I am sensible I am&lt;/p&gt;
+
+&lt;p&gt;unworthy such flattering compliments.” Here&lt;/p&gt;
+
+&lt;p&gt;Mrs. R— and her friend entered, and the&lt;/p&gt;
+
+&lt;p&gt;discourse turning on different subjects, till&lt;/p&gt;
+
+&lt;p&gt;the company encreased, they sat down to&lt;/p&gt;
+
+&lt;p&gt;cards, leaving Eugenius absorbed in thought.&lt;/p&gt;
+
+&lt;p&gt;Love now began to make powerful inroads&lt;/p&gt;
+
+&lt;p&gt;in his heart. Selima sat opposite him dur-&lt;/p&gt;
+
+&lt;p&gt;ing the evening, and the more he beheld her&lt;/p&gt;
+
+&lt;p&gt;the more his passion augmented; but he fear-&lt;/p&gt;
+
+&lt;p&gt;ed his addresses were fruitless, as she did not&lt;/p&gt;
+
+&lt;p&gt;once deign him a tender look. Love, how-&lt;/p&gt;
+
+&lt;p&gt;ever, had, in reality made as powerful and&lt;/p&gt;
+
+&lt;p&gt;rapid a progress in her heart as in his, though&lt;/p&gt;
+
+&lt;p&gt;modesty taught her to disguise it.&lt;/p&gt;
+
+&lt;p&gt;The evening passed principally at cards—&lt;/p&gt;
+
+&lt;p&gt;Eugenius indeed found nothing to cross his&lt;/p&gt;
+
+&lt;p&gt;desires, yet it is consequent to love to be at-&lt;/p&gt;
+
+&lt;p&gt;tended with inquietude;–he longed for ano-&lt;/p&gt;
+
+&lt;p&gt;ther opportunity of speaking to her; but at&lt;/p&gt;
+
+&lt;p&gt;that time it was impracticable, as she and&lt;/p&gt;
+
+&lt;p&gt;her mother withdrew at a very early hour.&lt;/p&gt;
+
+&lt;p&gt;Before he departed, he paid his compliments&lt;/p&gt;
+
+&lt;p&gt;to Mrs. R—, who asked him how he had&lt;/p&gt;
+
+&lt;p&gt;liked his evening’s entertainment. He repli-&lt;/p&gt;
+
+&lt;p&gt;ed, he was perfectly happy in the society of&lt;/p&gt;
+
+&lt;p&gt;such agreeable persons, and hoped for the&lt;/p&gt;
+
+&lt;p&gt;renewing of that pleasure the next even-&lt;/p&gt;
+
+&lt;p&gt;ing.&lt;/p&gt;
+
+&lt;p&gt;Eugenius waited with impatience the ex-&lt;/p&gt;
+
+&lt;p&gt;Pected moment which should again bring&lt;/p&gt;
+
+&lt;p&gt;him into the presence of the dear object of&lt;/p&gt;
+
+&lt;p&gt;his affections, in which interview he resolved&lt;/p&gt;
+
+&lt;p&gt;to come to an explanation ;–but imagine his&lt;/p&gt;
+
+&lt;p&gt;disappointment when the time arrived, and&lt;/p&gt;
+
+&lt;p&gt;he was informed, indisposition prevented,&lt;/p&gt;
+
+&lt;p&gt;her mother, and which necessary hindered&lt;/p&gt;
+
+&lt;p&gt;her being there. His conjecture was imme-&lt;/p&gt;
+
+&lt;p&gt;diately, that it was merely an excuse, and&lt;/p&gt;
+
+&lt;p&gt;their absence was purposefully calculated to de-&lt;/p&gt;
+
+&lt;p&gt;ter his further pursuit. The idea was suffi-&lt;/p&gt;
+
+&lt;p&gt;cient to make him unhappy and he now be-&lt;/p&gt;
+
+&lt;p&gt;gan to ruminate upon the absurdity of his&lt;/p&gt;
+
+&lt;p&gt;mistake in having regarded the distant respect&lt;/p&gt;
+
+&lt;p&gt;she had shewn him, as a mark of affection,&lt;/p&gt;
+
+&lt;p&gt;which was, he now thought in reality only&lt;/p&gt;
+
+&lt;p&gt;the simple effects of politeness. He left&lt;/p&gt;
+
+&lt;p&gt;Mrs. R—’s that evening with less satis-&lt;/p&gt;
+
+&lt;p&gt;faction, as may naturally be supposed, than he&lt;/p&gt;
+
+&lt;p&gt;had done the preceding.&lt;/p&gt;
+
+&lt;p&gt;After having passed a restless night, next&lt;/p&gt;
+
+&lt;p&gt;morning he paid a visit to Mrs. R—: that&lt;/p&gt;
+
+&lt;p&gt;lady rightly judged the cause to which she&lt;/p&gt;
+
+&lt;p&gt;was indebted for the honour of this his early&lt;/p&gt;
+
+&lt;p&gt;visit, and to remove his suspicions, assured&lt;/p&gt;
+
+&lt;p&gt;him he had been deprived of Mrs. C— and&lt;/p&gt;
+
+&lt;p&gt;her daughter’s company, solely by the indis-&lt;/p&gt;
+
+&lt;p&gt;position of the former. Luckily, during&lt;/p&gt;
+
+&lt;p&gt;their conversation, the ladies entered. After&lt;/p&gt;
+
+&lt;p&gt;they had paid their congratulations to Mrs.&lt;/p&gt;
+
+&lt;p&gt;C—, on her restoration to health, and o-&lt;/p&gt;
+
+&lt;p&gt;ther usual compliments had passed, Mrs.&lt;/p&gt;
+
+&lt;p&gt;R— took the mother by the hand and&lt;/p&gt;
+
+&lt;p&gt;withdrew into another room in order to&lt;/p&gt;
+
+&lt;p&gt;give Eugenius an opportunity of discover-&lt;/p&gt;
+
+&lt;p&gt;ing his sentiments to Selima: nor did he fail&lt;/p&gt;
+
+&lt;p&gt;of making use of the present advantageous&lt;/p&gt;
+
+&lt;p&gt;moment. “Madam,” said he, taking her ten-&lt;/p&gt;
+
+&lt;p&gt;derly by the hand, “this is the first time I&lt;/p&gt;
+
+&lt;p&gt;have had the pleasure of being alone with&lt;/p&gt;
+
+&lt;p&gt;you; permit me, now I enjoy that op-&lt;/p&gt;
+
+&lt;p&gt;portunity, to inform you the impression your&lt;/p&gt;
+
+&lt;p&gt;charms made on me the first time I had the&lt;/p&gt;
+
+&lt;p&gt;honour of seeing you, and believe me, my&lt;/p&gt;
+
+&lt;p&gt;dear Selima, that if ever passion was fervent&lt;/p&gt;
+
+&lt;p&gt;and true, mine is so;–and, knew you the&lt;/p&gt;
+
+&lt;p&gt;unhappiness I endured the short time I was&lt;/p&gt;
+
+&lt;p&gt;deprived of your company, it would be suf-&lt;/p&gt;
+
+&lt;p&gt;ficient to give you a clear proof of the truth&lt;/p&gt;
+
+&lt;p&gt;of what I have said, and of the sincerity of&lt;/p&gt;
+
+&lt;p&gt;my affection. –Such, my dear Selima is the de-&lt;/p&gt;
+
+&lt;p&gt;climation [sp] of my heart; I scorn deceit; —&lt;/p&gt;
+
+&lt;p&gt;speak then, my lovely girl, determine with a&lt;/p&gt;
+
+&lt;p&gt;smile, my happiness; or fix with a&lt;/p&gt;
+
+&lt;p&gt;frown my eternal misery.” “Ah sir,” re-&lt;/p&gt;
+
+&lt;p&gt;turned she, “could I think what you have&lt;/p&gt;
+
+&lt;p&gt;said to be true, and that it is I who have&lt;/p&gt;
+
+&lt;p&gt;caused the tender unhappiness in your, you&lt;/p&gt;
+
+&lt;p&gt;fain would have me believe; I should reflect&lt;/p&gt;
+
+&lt;p&gt;on it with pleasure; but should I listen to&lt;/p&gt;
+
+&lt;p&gt;your pursuasive [sp] words, I fear I should be&lt;/p&gt;
+
+&lt;p&gt;drawn to imbibe a tenderness which might&lt;/p&gt;
+
+&lt;p&gt;hereafter prove difficult to banish. Yet this,&lt;/p&gt;
+
+&lt;p&gt;in justice I must say, among the fine speeches&lt;/p&gt;
+
+&lt;p&gt;I have had said to me on this subject, yours&lt;/p&gt;
+
+&lt;p&gt;seem to wear most the appearance of simple&lt;/p&gt;
+
+&lt;p&gt;sincerity. I should hope, sir, that what I&lt;/p&gt;
+
+&lt;p&gt;have already said will be sufficient to make&lt;/p&gt;
+
+&lt;p&gt;known to you my sentiments on what you have&lt;/p&gt;
+
+&lt;p&gt;just now said.”&lt;/p&gt;
+
+&lt;p&gt;The happiness which these few words of&lt;/p&gt;
+
+&lt;p&gt;Selima conferred on Eugenius, can only be&lt;/p&gt;
+
+&lt;p&gt;conceived by those who have been in a similar&lt;/p&gt;
+
+&lt;p&gt;situation. But her mother and Mrs. R—,&lt;/p&gt;
+
+&lt;p&gt;now entering, no further discourse past. It&lt;/p&gt;
+
+&lt;p&gt;may be supposed he was easily prevailed on&lt;/p&gt;
+
+&lt;p&gt;to stay dinner; and in the evening more&lt;/p&gt;
+
+&lt;p&gt;company coming, they sat down to quadrille.&lt;/p&gt;
+
+&lt;p&gt;He had again an opportunity of conversing&lt;/p&gt;
+
+&lt;p&gt;with Selima, she having declined playing. “Is&lt;/p&gt;
+
+&lt;p&gt;it possible, Selima,” said he, “that such a&lt;/p&gt;
+
+&lt;p&gt;reserved indifference should be thought a re-&lt;/p&gt;
+
+&lt;p&gt;compence worthy the love you must be con-&lt;/p&gt;
+
+&lt;p&gt;vinced I entertain for you. –I fear some more&lt;/p&gt;
+
+&lt;p&gt;happy rival occasions this behaviour to me;&lt;/p&gt;
+
+&lt;p&gt;be engenious and easy [sp] my troubled soul, for&lt;/p&gt;
+
+&lt;p&gt;it were death to continue in that tormenting&lt;/p&gt;
+
+&lt;p&gt;situation, which your treatment has reduced&lt;/p&gt;
+
+&lt;p&gt;me.” “You are mistaken, sir, I assure you,”&lt;/p&gt;
+
+&lt;p&gt;replied she, “and insensible of the feelings&lt;/p&gt;
+
+&lt;p&gt;my heart but too freely indulges in your be-&lt;/p&gt;
+
+&lt;p&gt;half;–your behavior charms me, and I con-&lt;/p&gt;
+
+&lt;p&gt;fess, what mostly ought to have obliged&lt;/p&gt;
+
+&lt;p&gt;me to conceal, that your tenderness has af-&lt;/p&gt;
+
+&lt;p&gt;fected me much; but whilst you are thus&lt;/p&gt;
+
+&lt;p&gt;earnestly soliciting to know what my senti-&lt;/p&gt;
+
+&lt;p&gt;ments are towards you; permit me to require&lt;/p&gt;
+
+&lt;p&gt;you to return me the sincerest proof of your&lt;/p&gt;
+
+&lt;p&gt;regard by endeavoring to make your pa-&lt;/p&gt;
+
+&lt;p&gt;rent and mine approve of it, and then you&lt;/p&gt;
+
+&lt;p&gt;will find I shall not be averse to your wish-&lt;/p&gt;
+
+&lt;p&gt;es.”&lt;/p&gt;
+
+&lt;p&gt;She uttered this with the most enchanting&lt;/p&gt;
+
+&lt;p&gt;Sweetness and innocent’ simplicity. He pro-&lt;/p&gt;
+
+&lt;p&gt;mised to acquaint his father immediately; and&lt;/p&gt;
+
+&lt;p&gt;they spent the remainder of the evening in&lt;/p&gt;
+
+&lt;p&gt;assuring each other of a mutual tenderness&lt;/p&gt;
+
+&lt;p&gt;and affection; and when the company separa-&lt;/p&gt;
+
+&lt;p&gt;ted, he departed perfectly satisfied with the&lt;/p&gt;
+
+&lt;p&gt;assurances she had given him of her love, and&lt;/p&gt;
+
+&lt;p&gt;not doubting but his father would consent to&lt;/p&gt;
+
+&lt;p&gt;their union, as he could have no reasonable&lt;/p&gt;
+
+&lt;p&gt;objections to her person, nor to her fortune,&lt;/p&gt;
+
+&lt;p&gt;since it was equal if not superior to his&lt;/p&gt;
+
+&lt;p&gt;own.&lt;/p&gt;
+
+&lt;p&gt;The visible happiness on his countenance&lt;/p&gt;
+
+&lt;p&gt;was quickly perceived by his tutor, who en-&lt;/p&gt;
+
+&lt;p&gt;quired the reason. Eugenius thinking he&lt;/p&gt;
+
+&lt;p&gt;might be of service to him interceding with&lt;/p&gt;
+
+&lt;p&gt;his father did not hesitate to tell him the&lt;/p&gt;
+
+&lt;p&gt;cause, nor did he conceal in the least the purport&lt;/p&gt;
+
+&lt;p&gt;of his last conversation with Selima. “Sir,” said&lt;/p&gt;
+
+&lt;p&gt;his tutor, “you have, I fear, engaged in an af-&lt;/p&gt;
+
+&lt;p&gt;fair that will be the cause of lasting unhappiness&lt;/p&gt;
+
+&lt;p&gt;to you, and that amiable young lady. Not that&lt;/p&gt;
+
+&lt;p&gt;love itself is to be condemned; no! far from it;&lt;/p&gt;
+
+&lt;p&gt;it is the surest mark of a great and noble soul;&lt;/p&gt;
+
+&lt;p&gt;but you should not indulge yourself in it too pre-&lt;/p&gt;
+
+&lt;p&gt;cipitately–for, continued he, no one can tell but&lt;/p&gt;
+
+&lt;p&gt;that your father may have fixed on a lady for your&lt;/p&gt;
+
+&lt;p&gt;wife, and, nevertheless whatever we may think,&lt;/p&gt;
+
+&lt;p&gt;parents know, or at least ought to know better&lt;/p&gt;
+
+&lt;p&gt;what is to the advantage of their children, than&lt;/p&gt;
+
+&lt;p&gt;they themselves. Your father gave me particu-&lt;/p&gt;
+
+&lt;p&gt;lar orders not to suffer you to make any engage-&lt;/p&gt;
+
+&lt;p&gt;ment without his knowledge; and should I fulfil[sp]&lt;/p&gt;
+
+&lt;p&gt;my trust, did I not give him the earliest account&lt;/p&gt;
+
+&lt;p&gt;of this transaction? which, excuse me if I say&lt;/p&gt;
+
+&lt;p&gt;I know it will be contrary to his inclination.”&lt;/p&gt;
+
+&lt;p&gt;His tutor was right, and when he found all his&lt;/p&gt;
+
+&lt;p&gt;advice was to no purpose, he desisted, and immedi-&lt;/p&gt;
+
+&lt;p&gt;ately wrote to Morosus, to acquaint him of the&lt;/p&gt;
+
+&lt;p&gt;connection his son had formed; advising to send&lt;/p&gt;
+
+&lt;p&gt;for him home, absence might cure him of his pas-&lt;/p&gt;
+
+&lt;p&gt;sion, and restore him to his senses.&lt;/p&gt;
+
+&lt;p&gt;In a few days Eugenius received a letter from&lt;/p&gt;
+
+&lt;p&gt;his father, containing an order to return home;&lt;/p&gt;
+
+&lt;p&gt;this was sufficient to render him unhappy; the i-&lt;/p&gt;
+
+&lt;p&gt;dea of leaving Selima was death; but his father’s&lt;/p&gt;
+
+&lt;p&gt;commands were absolute, and must be obeyed.&lt;/p&gt;
+
+&lt;p&gt;The same evening he went to take his farewell&lt;/p&gt;
+
+&lt;p&gt;of his beloved Selima; they parted with tears, after&lt;/p&gt;
+
+&lt;p&gt;having sworn fidelity to each other. Mrs. R—&lt;/p&gt;
+
+&lt;p&gt;sympathised in their unhappiness, by giving them&lt;/p&gt;
+
+&lt;p&gt;all the consolation friendly advice could afford.&lt;/p&gt;
+
+&lt;p&gt;Eugenius begged her to permit him to write to her&lt;/p&gt;
+
+&lt;p&gt;from London, to acknowledge the obligations he&lt;/p&gt;
+
+&lt;p&gt;had already experienced; of which he should al-&lt;/p&gt;
+
+&lt;p&gt;ways retain the most lively sense of gratitude. She&lt;/p&gt;
+
+&lt;p&gt;readily granted his request, and it was a consola-&lt;/p&gt;
+
+&lt;p&gt;tion to him that by this means he could enjoy the&lt;/p&gt;
+
+&lt;p&gt;pleasure of hearing some news of his dear Seli-&lt;/p&gt;
+
+&lt;p&gt;ma.&lt;/p&gt;
+
+&lt;p&gt;When Eugenius arrived in London, his father’s&lt;/p&gt;
+
+&lt;p&gt;cool behaviour hurt him not a little. The morn-&lt;/p&gt;
+
+&lt;p&gt;ing after his arrival, his father sent for him into&lt;/p&gt;
+
+&lt;p&gt;his closet; he obeyed his command and went&lt;/p&gt;
+
+&lt;p&gt;trembling, but fully resolved to discover his sen-&lt;/p&gt;
+
+&lt;p&gt;timents. On his entrance, Morosus addressed&lt;/p&gt;
+
+&lt;p&gt;him thus: “Sir,” said he, “pray how have you&lt;/p&gt;
+
+&lt;p&gt;employed your time since you left home.” The&lt;/p&gt;
+
+&lt;p&gt;youth instantly, and without any reserve confessed&lt;/p&gt;
+
+&lt;p&gt;his love for Selima, and in the tenderest expres-&lt;/p&gt;
+
+&lt;p&gt;sions and persuasive eloquence exaggerated her&lt;/p&gt;
+
+&lt;p&gt;merit and beauty–nor did he forget to mention&lt;/p&gt;
+
+&lt;p&gt;her ample fortune, beseeching him at the same&lt;/p&gt;
+
+&lt;p&gt;time not to disapprove his passion by a denial of&lt;/p&gt;
+
+&lt;p&gt;their union. “I am surprised, (replied the father)&lt;/p&gt;
+
+&lt;p&gt;you should have formed such an attachment with-&lt;/p&gt;
+
+&lt;p&gt;out my consent, and more so at your boldness in&lt;/p&gt;
+
+&lt;p&gt;avowing it. But, young man, continued he, re-&lt;/p&gt;
+
+&lt;p&gt;member, I command you to think no more of&lt;/p&gt;
+
+&lt;p&gt;this ridiculous passion, unless you would incur my&lt;/p&gt;
+
+&lt;p&gt;utter displeasure, and oblige me to a severity I&lt;/p&gt;
+
+&lt;p&gt;willingly would avoid.” In vain he remonstra-&lt;/p&gt;
+
+&lt;p&gt;ted he had plighted his honor in the most sacred&lt;/p&gt;
+
+&lt;p&gt;oaths to marry her. Morosus broke from him,&lt;/p&gt;
+
+&lt;p&gt;and would hear no more.&lt;/p&gt;
+
+&lt;p&gt;His tutor, who was accessary to what had passed,&lt;/p&gt;
+
+&lt;p&gt;came to give him all the comfort in his power, but&lt;/p&gt;
+
+&lt;p&gt;he was incapable of receiving any.–He abandoned&lt;/p&gt;
+
+&lt;p&gt;himself to dispair, &amp;amp; would scarcely receive nourishment&lt;/p&gt;
+
+&lt;p&gt;for several days; nor could all the remonstran-&lt;/p&gt;
+
+&lt;p&gt;ces of his tutor bring him out of his chamber .&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;[To be continued.]&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;________________________________________&lt;/p&gt;
+
+&lt;p&gt;Saturday, October 11, 1794&lt;/p&gt;
+
+&lt;p&gt;The first opportunity he could take, with-&lt;/p&gt;
+
+&lt;p&gt;out being observed, he wrote to Mrs.&lt;/p&gt;
+
+&lt;p&gt;R—, informing her how averse his father was&lt;/p&gt;
+
+&lt;p&gt;to his marriage and begging her to acquaint Seli-&lt;/p&gt;
+
+&lt;p&gt;ma of his eternal constancy to her, and if pos-&lt;/p&gt;
+
+&lt;p&gt;sible to send him some intelligence concerning&lt;/p&gt;
+
+&lt;p&gt;her.&lt;/p&gt;
+
+&lt;p&gt;Having thus unburthened his mind, he now felt&lt;/p&gt;
+
+&lt;p&gt;more happy than he had done some time. He be-&lt;/p&gt;
+
+&lt;p&gt;gan to eat his meals with cheerfulness, hoping&lt;/p&gt;
+
+&lt;p&gt;soon to receive an answer to his letter, which ar-&lt;/p&gt;
+
+&lt;p&gt;rived in a few days wherein she condoled with him&lt;/p&gt;
+
+&lt;p&gt;on the unhappy situation to which he was reduced&lt;/p&gt;
+
+&lt;p&gt;by his father’s barbarity; and telling him that&lt;/p&gt;
+
+&lt;p&gt;Selima could not refrain a tear on reading his&lt;/p&gt;
+
+&lt;p&gt;letter; but that young lady had considered it as&lt;/p&gt;
+
+&lt;p&gt;improper to shew it her mother, left piqued by&lt;/p&gt;
+
+&lt;p&gt;his father’s refusal; and influenced by pride, she&lt;/p&gt;
+
+&lt;p&gt;might be induced to use her daughter in the same&lt;/p&gt;
+
+&lt;p&gt;manner–but what pleased him above all, was&lt;/p&gt;
+
+&lt;p&gt;the following postscript in Selima’s own hand:&lt;/p&gt;
+
+&lt;p&gt;“I partake in the uneasiness your father’s cru-&lt;/p&gt;
+
+&lt;p&gt;“el behavior has occasioned; but if my love can&lt;/p&gt;
+
+&lt;p&gt;“afford any consolation, you posses it:–Make&lt;/p&gt;
+
+&lt;p&gt;“yourself as easy as possible, and be assured my&lt;/p&gt;
+
+&lt;p&gt;“ affection shall only cease with death.&lt;/p&gt;
+
+&lt;p&gt;“Adieu: Remember&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Selima.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;These few lines operated like an elixir on his&lt;/p&gt;
+
+&lt;p&gt;distracted mind, and restored him to his wonted&lt;/p&gt;
+
+&lt;p&gt;tranquility. The family judged from the cheer-&lt;/p&gt;
+
+&lt;p&gt;fulness of his countenance, that he had got the&lt;/p&gt;
+
+&lt;p&gt;better of this foolish passion, as they called it.—&lt;/p&gt;
+
+&lt;p&gt;His father and tutor were also inclined to believe&lt;/p&gt;
+
+&lt;p&gt;the same; and their suspicious [sp] being lulled asleep,&lt;/p&gt;
+
+&lt;p&gt;he carried on his correspondence with Mrs. R—&lt;/p&gt;
+
+&lt;p&gt;and Selima for some time, without interruption,&lt;/p&gt;
+
+&lt;p&gt;till at length an incident happened which gave&lt;/p&gt;
+
+&lt;p&gt;rise to a discovery, which involved the ill-fated&lt;/p&gt;
+
+&lt;p&gt;Eugenius in fresh troubles, and reduced him, if&lt;/p&gt;
+
+&lt;p&gt;possible, to a more pitiable situation than before.&lt;/p&gt;
+
+&lt;p&gt;Morosus unfortunately observed a servant deli-&lt;/p&gt;
+
+&lt;p&gt;ver his son a letter, and though he imagined it&lt;/p&gt;
+
+&lt;p&gt;was concerning his amour he took no notice of&lt;/p&gt;
+
+&lt;p&gt;it at present.&lt;/p&gt;
+
+&lt;p&gt;A short time after, he sent the tutor to Eugeni-&lt;/p&gt;
+
+&lt;p&gt;us, in order to discover if possible the present&lt;/p&gt;
+
+&lt;p&gt;state of his mind concerning Selima, who artfully&lt;/p&gt;
+
+&lt;p&gt;insinuated he was glad to find he had forgotten&lt;/p&gt;
+
+&lt;p&gt;that young lady: But Eugenius, with more sin-&lt;/p&gt;
+
+&lt;p&gt;cerity than prudence, answered, “No, sir, I&lt;/p&gt;
+
+&lt;p&gt;have not forgotten her, and though I may appear&lt;/p&gt;
+
+&lt;p&gt;tranquil in this long and cruel absence from her,&lt;/p&gt;
+
+&lt;p&gt;yet her lovely image is too deeply engraven on&lt;/p&gt;
+
+&lt;p&gt;my heart ever to be erased, either by time&lt;/p&gt;
+
+&lt;p&gt;or misfortune.” “So much the worse, (replied&lt;/p&gt;
+
+&lt;p&gt;the tutor) I pity you; for your father this moment&lt;/p&gt;
+
+&lt;p&gt;sent me to tell you, he intends disposing of you&lt;/p&gt;
+
+&lt;p&gt;in a marriage, as also to prepare you for that event,&lt;/p&gt;
+
+&lt;p&gt;and you know his disposition will not brook a de-&lt;/p&gt;
+
+&lt;p&gt;nial.” “Impossible, (cried Eugenius) by obey-&lt;/p&gt;
+
+&lt;p&gt;ing my father, I forfeit my honor—What then&lt;/p&gt;
+
+&lt;p&gt;can I do.”&lt;/p&gt;
+
+&lt;p&gt;His father had in reality no intentions to marry&lt;/p&gt;
+
+&lt;p&gt;him, but tried this experiment to see if it were&lt;/p&gt;
+
+&lt;p&gt;possible to make him forget Selima; and finding&lt;/p&gt;
+
+&lt;p&gt;this fail, he had recourse to other expedients,&lt;/p&gt;
+
+&lt;p&gt;which proved equally ineffectual. He sent for&lt;/p&gt;
+
+&lt;p&gt;the servant he had seen him give the letter, who&lt;/p&gt;
+
+&lt;p&gt;by threats and persuasions discovered the corres-&lt;/p&gt;
+
+&lt;p&gt;pondence that had subsisted between his son and&lt;/p&gt;
+
+&lt;p&gt;Selima. However, Morosus ordered for the fu-&lt;/p&gt;
+
+&lt;p&gt;ture to bring him all the letters that came for his&lt;/p&gt;
+
+&lt;p&gt;son: And what was his astonishment when he&lt;/p&gt;
+
+&lt;p&gt;found, in the first letter he intercepted, to what&lt;/p&gt;
+
+&lt;p&gt;length the young lover had gone; but he did&lt;/p&gt;
+
+&lt;p&gt;not fail answering this himself, and accordingly&lt;/p&gt;
+
+&lt;p&gt;informed Mrs. R— that he was determined to&lt;/p&gt;
+
+&lt;p&gt;marry his son to a lady he had fixed upon, and&lt;/p&gt;
+
+&lt;p&gt;begged her, in order to wean his affections from&lt;/p&gt;
+
+&lt;p&gt;Selima, to write him word she was on the point&lt;/p&gt;
+
+&lt;p&gt;of marriage.&lt;/p&gt;
+
+&lt;p&gt;Mrs. R—, knowing the rank of Morosus, compli-&lt;/p&gt;
+
+&lt;p&gt;ed with his request; and the next letter Eugeni-&lt;/p&gt;
+
+&lt;p&gt;us received, brought him the disagreeable news&lt;/p&gt;
+
+&lt;p&gt;of a supposed match that was on foot between&lt;/p&gt;
+
+&lt;p&gt;Selima and a gentleman of her parent’s choice,&lt;/p&gt;
+
+&lt;p&gt;whom the former had consented to marry.&lt;/p&gt;
+
+&lt;p&gt;His father expecting this news would drive him&lt;/p&gt;
+
+&lt;p&gt;to the extremity of desperation, ordered the tu-&lt;/p&gt;
+
+&lt;p&gt;tor to be present when he knew the letter would&lt;/p&gt;
+
+&lt;p&gt;arrive; and the precaution was very wisely taken,&lt;/p&gt;
+
+&lt;p&gt;for, without doubt, had he been alone he would&lt;/p&gt;
+
+&lt;p&gt;put a period to his existence.&lt;/p&gt;
+
+&lt;p&gt;He raved with the madness of a man bereft of&lt;/p&gt;
+
+&lt;p&gt;his senses, and his father coming in at the disturb-&lt;/p&gt;
+
+&lt;p&gt;ance, relaxing his former severity of look, endea-&lt;/p&gt;
+
+&lt;p&gt;vored by gentleness to bring him to reason, pre-&lt;/p&gt;
+
+&lt;p&gt;tending ignorance of the cause from whence this&lt;/p&gt;
+
+&lt;p&gt;sudden phrenzy proceeded. “Leave me, (cried&lt;/p&gt;
+
+&lt;p&gt;the afflicted Eugenius) to my fate; ask me not&lt;/p&gt;
+
+&lt;p&gt;whence my sorrow arises; as well you know you&lt;/p&gt;
+
+&lt;p&gt;yourself have caused it, by refusing to give your&lt;/p&gt;
+
+&lt;p&gt;consent to my union with Selima, who, alas! is&lt;/p&gt;
+
+&lt;p&gt;now insupportable; deprive me of it, O barba-&lt;/p&gt;
+
+&lt;p&gt;rous father, at once.”&lt;/p&gt;
+
+&lt;p&gt;He uttered these words with such vehemence,&lt;/p&gt;
+
+&lt;p&gt;that his father feared this affair would end in some&lt;/p&gt;
+
+&lt;p&gt;dismal catastrophe. He therefore thought it ne-&lt;/p&gt;
+
+&lt;p&gt;cessary not to leave him himself, till he had en-&lt;/p&gt;
+
+&lt;p&gt;deavored by every argument in his power to con-&lt;/p&gt;
+
+&lt;p&gt;vince him how despicable it was for a man of spi-&lt;/p&gt;
+
+&lt;p&gt;rit and understanding to be subdued by such a&lt;/p&gt;
+
+&lt;p&gt;weakness. In the interval, when reason triumph-&lt;/p&gt;
+
+&lt;p&gt;ed over madness, he seemed to comply with his&lt;/p&gt;
+
+&lt;p&gt;father’s advice, as he thought that would be the&lt;/p&gt;
+
+&lt;p&gt;only and surest means to gain more liberty and&lt;/p&gt;
+
+&lt;p&gt;obtain and opportunity of going to Oxford, to sa-&lt;/p&gt;
+
+&lt;p&gt;tiate his revenge upon his supposed happy rival,&lt;/p&gt;
+
+&lt;p&gt;and punish the perfidy of Selima. Yet so cre-&lt;/p&gt;
+
+&lt;p&gt;dulous was he, that though the letter was suffice-&lt;/p&gt;
+
+&lt;p&gt;ent to give him sufficient proof of his mistress’s&lt;/p&gt;
+
+&lt;p&gt;infidelity, yet he imputed it to her parents hav-&lt;/p&gt;
+
+&lt;p&gt;ing heard of the difficulties his father had made&lt;/p&gt;
+
+&lt;p&gt;to their union, and that they in revenge had for-&lt;/p&gt;
+
+&lt;p&gt;ced their daughter to marry, contrary to her in-&lt;/p&gt;
+
+&lt;p&gt;clination, for he still thought Selima incapable of&lt;/p&gt;
+
+&lt;p&gt;deceit.&lt;/p&gt;
+
+&lt;p&gt;Fortune seemed to favour the unfortunate Euge-&lt;/p&gt;
+
+&lt;p&gt;nius; for a few weeks after, his father was obliged&lt;/p&gt;
+
+&lt;p&gt;to go to Oxford on business of importance. This&lt;/p&gt;
+
+&lt;p&gt;gave him an opportunity to carry his intended&lt;/p&gt;
+
+&lt;p&gt;project to execution. His father was not the&lt;/p&gt;
+
+&lt;p&gt;least suspicious of his son, but imagined that by&lt;/p&gt;
+
+&lt;p&gt;the indifference he feigned, he had forgot every&lt;/p&gt;
+
+&lt;p&gt;thing related to Selima, so accordingly took&lt;/p&gt;
+
+&lt;p&gt;him with him.&lt;/p&gt;
+
+&lt;p&gt;Eugenius, however, went as soon as possible&lt;/p&gt;
+
+&lt;p&gt;after his arrival in the country to Mrs. R—’s,&lt;/p&gt;
+
+&lt;p&gt;who was surprised to see him. At his ear-&lt;/p&gt;
+
+&lt;p&gt;nest solicitation to be informed who the happy ri-&lt;/p&gt;
+
+&lt;p&gt;val was, that Selima had preferred to him, and&lt;/p&gt;
+
+&lt;p&gt;she confessed the deceit that had been put upon&lt;/p&gt;
+
+&lt;p&gt;him at his father’s request. This intelligence&lt;/p&gt;
+
+&lt;p&gt;brought a composure to his troubled mind, which&lt;/p&gt;
+
+&lt;p&gt;for a long time it had been unacquainted with;&lt;/p&gt;
+
+&lt;p&gt;he now with eagerness demanded, if Selima lived&lt;/p&gt;
+
+&lt;p&gt;where she did formerly? and was told she did&lt;/p&gt;
+
+&lt;p&gt;not; that she had been ill some time, and that&lt;/p&gt;
+
+&lt;p&gt;her disorder was now grown to such a height, that&lt;/p&gt;
+
+&lt;p&gt;her life was despaired of. This was a new cause&lt;/p&gt;
+
+&lt;p&gt;of unhappiness; but he determined to see her.&lt;/p&gt;
+
+&lt;p&gt;Mrs. R—, who saw her every day, promised&lt;/p&gt;
+
+&lt;p&gt;to acquaint her mother of his arrival, and to beg&lt;/p&gt;
+
+&lt;p&gt;the favor that he might be permitted to see this&lt;/p&gt;
+
+&lt;p&gt;young lady. But after the deceit he had alrea-&lt;/p&gt;
+
+&lt;p&gt;dy experienced, he paid no regard to promises,&lt;/p&gt;
+
+&lt;p&gt;but endeavored to find out an expedient to intro-&lt;/p&gt;
+
+&lt;p&gt;duce himself. Although he was fearful his pre-&lt;/p&gt;
+
+&lt;p&gt;sence might occasion an emotion that might in-&lt;/p&gt;
+
+&lt;p&gt;crease her illness, yet he could not help thinking&lt;/p&gt;
+
+&lt;p&gt;it would have a different effect, &amp;amp; give her&lt;/p&gt;
+
+&lt;p&gt;pleasure.&lt;/p&gt;
+
+&lt;p&gt;Flushed with these hopes he made it his business&lt;/p&gt;
+
+&lt;p&gt;to find out the physician that attended, who hap-&lt;/p&gt;
+
+&lt;p&gt;pened fortunately to be one who had visited him&lt;/p&gt;
+
+&lt;p&gt;in a fit of illness a few years back; and making&lt;/p&gt;
+
+&lt;p&gt;himself known, begged the favor of him to&lt;/p&gt;
+
+&lt;p&gt;let him accompany him in the next visit he should&lt;/p&gt;
+
+&lt;p&gt;make to Selima. The physician complied,&lt;/p&gt;
+
+&lt;p&gt;and he accompanied him that evening to Mrs.&lt;/p&gt;
+
+&lt;p&gt;C—’s.&lt;/p&gt;
+
+&lt;p&gt;Eugenius not being personally known to any&lt;/p&gt;
+
+&lt;p&gt;of the domestics, gained admittance as a friend&lt;/p&gt;
+
+&lt;p&gt;of the physician. When he entered Selima’s&lt;/p&gt;
+
+&lt;p&gt;chamber, he saw her mother kneeling by the bed-&lt;/p&gt;
+
+&lt;p&gt;side drowned in tears. In despite [sp] of his efforts&lt;/p&gt;
+
+&lt;p&gt;to the contrary, he could not help shedding tears&lt;/p&gt;
+
+&lt;p&gt;of latent tenderness on beholding this melancholy&lt;/p&gt;
+
+&lt;p&gt;scene; which plainly discovered the interesting&lt;/p&gt;
+
+&lt;p&gt;part he bore in the disorder. As she was raised&lt;/p&gt;
+
+&lt;p&gt;up to receive some nourishment, he beheld her&lt;/p&gt;
+
+&lt;p&gt;face, once the glowing seat of florid health and&lt;/p&gt;
+
+&lt;p&gt;vivid bloom, all wan and covered with deadly&lt;/p&gt;
+
+&lt;p&gt;paleness. But her eyes, notwithstanding her&lt;/p&gt;
+
+&lt;p&gt;disorder, still maintained their usual vivacity.&lt;/p&gt;
+
+&lt;p&gt;Her attendants observing Eugenius, who was&lt;/p&gt;
+
+&lt;p&gt;quite a stranger to them, turned their eyes on&lt;/p&gt;
+
+&lt;p&gt;him, and Selima observing their attention, made&lt;/p&gt;
+
+&lt;p&gt;her cast a look that way. She immediately knew&lt;/p&gt;
+
+&lt;p&gt;him, and her extraordinary emotion on seeing&lt;/p&gt;
+
+&lt;p&gt;him, testified her surprise and pleasure; and&lt;/p&gt;
+
+&lt;p&gt;stretching out her hand, made a sign that he&lt;/p&gt;
+
+&lt;p&gt;should advance nearer; which he did, and as he&lt;/p&gt;
+
+&lt;p&gt;gently clasped her hand between his–“Have I&lt;/p&gt;
+
+&lt;p&gt;ved [sp],” said she, “once more to hold my dear&lt;/p&gt;
+
+&lt;p&gt;Eugenius! Yes! Indulgent Heaven has heard&lt;/p&gt;
+
+&lt;p&gt;my prayer and granted me my only wish.”—&lt;/p&gt;
+
+&lt;p&gt;“But my dear Selima, (replied he) to what an&lt;/p&gt;
+
+&lt;p&gt;unhappy situation do I see you reduced.”—&lt;/p&gt;
+
+&lt;p&gt;“Hush, (said she) it is the will of Heaven;&lt;/p&gt;
+
+&lt;p&gt;but if you maintain the same affection for me&lt;/p&gt;
+
+&lt;p&gt;you formerly did, I bear it contentedly.” “If I&lt;/p&gt;
+
+&lt;p&gt;still love you! (returned he) Ah! my dear Seli-&lt;/p&gt;
+
+&lt;p&gt;ma, when I cease to love you, I must cease to ex-&lt;/p&gt;
+
+&lt;p&gt;ist.” “Enough, (answered she) I am satisfied;&lt;/p&gt;
+
+&lt;p&gt;I feel my last moments approach; bear my death&lt;/p&gt;
+
+&lt;p&gt;with resignation–farewell–love me forever—&lt;/p&gt;
+
+&lt;p&gt;preserve my same affection you always pro-&lt;/p&gt;
+
+&lt;p&gt;fessed, and live content.” She could utter no&lt;/p&gt;
+
+&lt;p&gt;more; but falling into her lover’s arms, heaved&lt;/p&gt;
+
+&lt;p&gt;a last sigh, and expired without a groan.&lt;/p&gt;
+
+&lt;p&gt;Unhappy youth! this was too much; his for-&lt;/p&gt;
+
+&lt;p&gt;titude could not withstand it; he remained sense-&lt;/p&gt;
+
+&lt;p&gt;less for some time. The physician attended him&lt;/p&gt;
+
+&lt;p&gt;home; he endeavored to console himself for his&lt;/p&gt;
+
+&lt;p&gt;loss, and forget; but ah! the effort was fruit-&lt;/p&gt;
+
+&lt;p&gt;less. His grief threw him into a fever, which&lt;/p&gt;
+
+&lt;p&gt;alas! terminated his life, and he died a melan-&lt;/p&gt;
+
+&lt;p&gt;choly victim of despair.&lt;/p&gt;
+
+&lt;p&gt;Morosus, distracted at the loss of his son and&lt;/p&gt;
+
+&lt;p&gt;only child, and overwhelmed with a sense of&lt;/p&gt;
+
+&lt;p&gt;his own barbarity at being the cause of his death,&lt;/p&gt;
+
+&lt;p&gt;remains the miserable prey of sorrow.&lt;/p&gt;
+
+&lt;p&gt;Such are the fatal effects of Parental Tyranny,&lt;/p&gt;
+
+&lt;p&gt;when parents biassed by their interest, study their chil-&lt;/p&gt;
+
+&lt;p&gt;dren’s imaginary advantage more than their real&lt;/p&gt;
+
+&lt;p&gt;good and happiness.&lt;/p&gt;
+
+&lt;p&gt;FINIS&lt;/p&gt;</content><author><name>Early American Serialized Novels</name></author><summary type="html">By Anonymous</summary></entry><entry><title type="html">The History Of Maria Kittle</title><link href="https://earlyamericanserializednovels.github.io/the-history-of-maria-kittle/" rel="alternate" type="text/html" title="The History Of Maria Kittle" /><published>1790-09-01T00:00:00-07:00</published><updated>1790-09-01T00:00:00-07:00</updated><id>https://earlyamericanserializednovels.github.io/the-history-of-maria-kittle</id><content type="html" xml:base="https://earlyamericanserializednovels.github.io/the-history-of-maria-kittle/">&lt;nav class=&quot;toc&quot;&gt;
+  &lt;header&gt;&lt;h4 class=&quot;nav__title&quot;&gt;&lt;i class=&quot;fa fa-file-text&quot;&gt;&lt;/i&gt; On This Page&lt;/h4&gt;&lt;/header&gt;
+&lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#preface&quot; id=&quot;markdown-toc-preface&quot;&gt;Preface&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#selected-bibliography&quot; id=&quot;markdown-toc-selected-bibliography&quot;&gt;Selected Bibliography&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#text&quot; id=&quot;markdown-toc-text&quot;&gt;Text&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#1-september-1790&quot; id=&quot;markdown-toc-1-september-1790&quot;&gt;[1. September 1790]&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#2-october-1790&quot; id=&quot;markdown-toc-2-october-1790&quot;&gt;[2. October 1790]&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#3-november-1790&quot; id=&quot;markdown-toc-3-november-1790&quot;&gt;[3. November 1790]&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#4-december-1790&quot; id=&quot;markdown-toc-4-december-1790&quot;&gt;[4. December 1790]&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#5-january-1791&quot; id=&quot;markdown-toc-5-january-1791&quot;&gt;[5. January 1791]&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;/nav&gt;
@@ -5673,8 +6726,10 @@ with merited attention.]&lt;/p&gt;</content><author><name>Early American Seriali
 
 &lt;p&gt;In &lt;em&gt;The History of Maria Kittle&lt;/em&gt;, Bleecker deals specifically with mothers mourning the loss of their children and other family members in times of violence. However, by using the structure of a captivity narrative and the setting of the French and Indian War, the novel explores this theme while vilifying Native Americans rather than the British. This trend of scapegoating and demonizing Native Americans continued into the nineteenth century. Although, Bleecker herself did not live to see much peace in the newly formed United States, her words survived to comfort, entertain and challenge other citizens of the new nation. Though her novel and other work enjoyed enormous popularity in the early republic, it went out of fashion until more recent scholars went looking for alternative perspectives of American history and early examples of the American novel.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Selected Bibliography&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;selected-bibliography&quot;&gt;Selected Bibliography&lt;/h3&gt;
 
+&lt;div class=&quot;works-cited&quot;&gt;
+  
 &lt;p&gt;Bleecker, Ann Eliza, and Margaretta V. Faugeres. &lt;em&gt;The Posthumous Works of Ann Eliza Bleecker, in Prose and Verse. To Which Is Added a Collection of Essays, Prose and Poetical by Margaretta V. Faugeres.&lt;/em&gt; New York, T. and J. Swords, 1793. &lt;a href=&quot;https://archive.org/details/posthumousworksi00bleerich&quot;&gt;https://archive.org/details/posthumousworksi00bleerich&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Ellison, Julie. “Race and Sensibility in the Early Republic: Ann Eliza Bleecker and Sarah Wentworth Morton.” &lt;em&gt;American Literature&lt;/em&gt;, vol. 65, no. 3, 1993, pp. 445–474.&lt;/p&gt;
@@ -5697,11 +6752,14 @@ with merited attention.]&lt;/p&gt;</content><author><name>Early American Seriali
 
 &lt;p&gt;Weiss, Stanley Buck. “The Dark Cloud of Jeffersonian Philanthropy: Native American Assimilation and the Critique of the Frontier Romance.” &lt;em&gt;Dissertation Abstracts International&lt;/em&gt;, vol. 76, no. 2, Aug. 2015. &lt;/p&gt;
 
+
+&lt;/div&gt;
+
 &lt;h3 id=&quot;text&quot;&gt;Text&lt;/h3&gt;
 
 &lt;p&gt;New York Magazine, or Literary Repository (1790-1797)&lt;/p&gt;
 
-&lt;p&gt;[1. September 1790]&lt;/p&gt;
+&lt;h4 id=&quot;1-september-1790&quot;&gt;[1. September 1790]&lt;/h4&gt;
 
 &lt;p&gt;For the New-York Magazine.&lt;/p&gt;
 
@@ -6206,7 +7264,7 @@ more!&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;(To be continued.)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;[2. October 1790]&lt;/p&gt;
+&lt;h4 id=&quot;2-october-1790&quot;&gt;[2. October 1790]&lt;/h4&gt;
 
 &lt;p&gt;Maria then walked sadly back&lt;br /&gt;
 again, and having assembled&lt;br /&gt;
@@ -6693,7 +7751,7 @@ yet lightened the obligation.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;(To be continued.)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;[3. November 1790]&lt;/p&gt;
+&lt;h4 id=&quot;3-november-1790&quot;&gt;[3. November 1790]&lt;/h4&gt;
 
 &lt;p&gt;But doubtless, my dear, your&lt;br /&gt;
 generous sensibility is alarmed&lt;br /&gt;
@@ -7216,7 +8274,7 @@ no more.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;(To be continued.)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;[4. December 1790]&lt;/p&gt;
+&lt;h4 id=&quot;4-december-1790&quot;&gt;[4. December 1790]&lt;/h4&gt;
 
 &lt;p&gt;After their exit the Governor&lt;br /&gt;
 Turning round to Maria and&lt;br /&gt;
@@ -7527,7 +8585,7 @@ began–&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;(To be continued.)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;[5. January 1791]&lt;/p&gt;
+&lt;h4 id=&quot;5-january-1791&quot;&gt;[5. January 1791]&lt;/h4&gt;
 
 &lt;p&gt;“I am the daughter of a poor&lt;br /&gt;
 clergyman, who being con-&lt;br /&gt;
@@ -7967,7 +9025,7 @@ tle could not speak–he gave his hand&lt;br /&gt;
 to Henry, and while (like the Apos-&lt;br /&gt;
 tles friends) he believed not for joy,&lt;br /&gt;
 he was conducted to her arms, and&lt;br /&gt;
-found his bliss wonderfully real.&lt;/p&gt;</content><author><name>Early American Serialized Novels</name></author><summary type="html">On This Page</summary></entry><entry><title type="html">The Foresters</title><link href="https://earlyamericanserializednovels.github.io/the-foresters/" rel="alternate" type="text/html" title="The Foresters" /><published>1787-07-01T00:00:00-07:00</published><updated>1787-07-01T00:00:00-07:00</updated><id>https://earlyamericanserializednovels.github.io/the-foresters</id><content type="html" xml:base="https://earlyamericanserializednovels.github.io/the-foresters/">&lt;nav class=&quot;toc&quot;&gt;
+found his bliss wonderfully real.&lt;/p&gt;</content><author><name>Early American Serialized Novels</name></author><summary type="html">By Ann Bleeker</summary></entry><entry><title type="html">The Foresters</title><link href="https://earlyamericanserializednovels.github.io/the-foresters/" rel="alternate" type="text/html" title="The Foresters" /><published>1787-07-01T00:00:00-07:00</published><updated>1787-07-01T00:00:00-07:00</updated><id>https://earlyamericanserializednovels.github.io/the-foresters</id><content type="html" xml:base="https://earlyamericanserializednovels.github.io/the-foresters/">&lt;nav class=&quot;toc&quot;&gt;
   &lt;header&gt;&lt;h4 class=&quot;nav__title&quot;&gt;&lt;i class=&quot;fa fa-file-text&quot;&gt;&lt;/i&gt; On This Page&lt;/h4&gt;&lt;/header&gt;
 &lt;ul class=&quot;toc__menu&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#preface&quot; id=&quot;markdown-toc-preface&quot;&gt;Preface&lt;/a&gt;&lt;/li&gt;
@@ -8048,9 +9106,9 @@ found his bliss wonderfully real.&lt;/p&gt;</content><author><name>Early America
 
 &lt;h3 id=&quot;text&quot;&gt;Text&lt;/h3&gt;
 
-&lt;p&gt;[1. June 1787]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[1. June 1787]&lt;/p&gt;
 
-&lt;p&gt;THE FORESTERS,\
+&lt;p&gt;THE FORESTERS,&lt;br /&gt;
 &lt;em&gt;An&lt;/em&gt; AMERICAN TALE, &lt;em&gt;being a Sequel to the History of&lt;/em&gt; JOHN BULL, &lt;em&gt;the
 Clothier.&lt;/em&gt;&lt;/p&gt;
 
@@ -8342,7 +9400,7 @@ same circumstances.&lt;/p&gt;
 
 &lt;p&gt;[&lt;em&gt;To be continued.&lt;/em&gt;]&lt;/p&gt;
 
-&lt;p&gt;[2. July 1787]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[2. July 1787]&lt;/p&gt;
 
 &lt;p&gt;The FORESTERS, &lt;em&gt;An&lt;/em&gt; AMERICAN TALE, &lt;em&gt;being a Sequel to the History of&lt;/em&gt;
 JOHN BULL, &lt;em&gt;the Clothier.&lt;/em&gt;&lt;/p&gt;
@@ -8711,7 +9769,7 @@ living wherever they could find land.&lt;/p&gt;
 
 &lt;p&gt;[&lt;em&gt;To be continued.&lt;/em&gt;]&lt;/p&gt;
 
-&lt;p&gt;[3. August 1787]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[3. August 1787]&lt;/p&gt;
 
 &lt;p&gt;The FORESTERS.&lt;/p&gt;
 
@@ -9057,9 +10115,9 @@ quarrel between them.&lt;/p&gt;
 
 &lt;p&gt;[&lt;em&gt;To be continued.&lt;/em&gt;]&lt;/p&gt;
 
-&lt;p&gt;[4. September 1787]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[4. September 1787]&lt;/p&gt;
 
-&lt;p&gt;The FORESTERS,\
+&lt;p&gt;The FORESTERS&lt;br /&gt;
 &lt;em&gt;An&lt;/em&gt; AMERICAN TALE, &lt;em&gt;being a Sequel to the History of&lt;/em&gt; JOHN BULL, &lt;em&gt;the
 Clothier.&lt;/em&gt;&lt;/p&gt;
 
@@ -9444,9 +10502,9 @@ shall be given, by way of digression.&lt;/p&gt;
 
 &lt;p&gt;[&lt;em&gt;To be continued.&lt;/em&gt;]&lt;/p&gt;
 
-&lt;p&gt;[5. October 1787]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[5. October 1787]&lt;/p&gt;
 
-&lt;p&gt;The FORESTERS,\&lt;/p&gt;
+&lt;p&gt;The FORESTERS,&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;An&lt;/em&gt; AMERICAN TALE, &lt;em&gt;being a Sequel to the History of JOHN BULL the
 Clothier.&lt;/em&gt;&lt;/p&gt;
@@ -9633,9 +10691,9 @@ ny being said over the carcase, and&lt;br /&gt;
 no other epitaph than “Poh, they&lt;br /&gt;
 are nothing but brutes, and where’s&lt;br /&gt;
 the harm of killing them!” or in&lt;br /&gt;
-rhyme thus:\&lt;/p&gt;
+rhyme thus:&lt;/p&gt;
 
-&lt;p&gt;“Tit for tat, tit for tat,\
+&lt;p&gt;“Tit for tat, tit for tat,&lt;br /&gt;
 “He stole my chick and I broke his back.”&lt;br /&gt;
 Whatever plausible excuses might&lt;br /&gt;
 have been made for these proceed-&lt;br /&gt;
@@ -9814,9 +10872,9 @@ hopeful among the signs of the times.&lt;/p&gt;
 
 &lt;p&gt;[&lt;em&gt;To be continued.&lt;/em&gt;]&lt;/p&gt;
 
-&lt;p&gt;[6. November 1787]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[6. November 1787]&lt;/p&gt;
 
-&lt;p&gt;The FORESTERS,\&lt;/p&gt;
+&lt;p&gt;The FORESTERS,&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;An&lt;/em&gt; AMERICAN TALE, &lt;em&gt;being a Sequel to the History of JOHN BULL the
 Clothier.&lt;/em&gt;&lt;/p&gt;
@@ -10171,9 +11229,9 @@ roof.&lt;/p&gt;
 
 &lt;p&gt;[&lt;em&gt;To be continued.&lt;/em&gt;]&lt;/p&gt;
 
-&lt;p&gt;[7. December 1787]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[7. December 1787]&lt;/p&gt;
 
-&lt;p&gt;The FORESTERS:\&lt;/p&gt;
+&lt;p&gt;The FORESTERS:&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;An&lt;/em&gt; AMERICAN TALE, &lt;em&gt;being a Sequel to the History of JOHN BULL the
 Clothier.&lt;/em&gt;&lt;/p&gt;
@@ -10516,9 +11574,9 @@ with sorrow to the grave.&lt;/p&gt;
 
 &lt;p&gt;[&lt;em&gt;To be continued.&lt;/em&gt;]&lt;/p&gt;
 
-&lt;p&gt;[8. February 1788]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[8. February 1788]&lt;/p&gt;
 
-&lt;p&gt;The FORESTERS,\&lt;/p&gt;
+&lt;p&gt;The FORESTERS,&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;An&lt;/em&gt; AMERICAN TALE, *being a Sequel to the History of JOHN BULL the&lt;/p&gt;
 
@@ -10538,19 +11596,19 @@ separate parcels. Their names were as&lt;br /&gt;
 follows, beginning at the north-east, and&lt;br /&gt;
 proceeding to the south-west:&lt;/p&gt;
 
-&lt;p&gt;Alexander Scotus, N. S.\&lt;br /&gt;
-Robert Lumber, N. H.\&lt;br /&gt;
-John Codline, M.\&lt;br /&gt;
-Roger Carrier, R. I.\&lt;br /&gt;
-Humphrey Plough-share, C.\&lt;br /&gt;
-Peter Bull-Frog, N. Y.\&lt;br /&gt;
-Julius Caesar, N. J.\&lt;br /&gt;
-—- Casimir, D.\&lt;br /&gt;
-William Broad-brim, P.\&lt;br /&gt;
-Frederick Mary-gold, M.\&lt;br /&gt;
-Walter Pipe-weed, V.\&lt;br /&gt;
-Peter Pitch, N. C.\&lt;br /&gt;
-Charles Indigo, S. C.\&lt;br /&gt;
+&lt;p&gt;Alexander Scotus, N. S.&lt;br /&gt;
+Robert Lumber, N. H.&lt;br /&gt;
+John Codline, M.&lt;br /&gt;
+Roger Carrier, R. I.&lt;br /&gt;
+Humphrey Plough-share, C.&lt;br /&gt;
+Peter Bull-Frog, N. Y.&lt;br /&gt;
+Julius Caesar, N. J.&lt;br /&gt;
+—- Casimir, D.&lt;br /&gt;
+William Broad-brim, P.&lt;br /&gt;
+Frederick Mary-gold, M.&lt;br /&gt;
+Walter Pipe-weed, V.&lt;br /&gt;
+Peter Pitch, N. C.&lt;br /&gt;
+Charles Indigo, S. C.&lt;br /&gt;
 George Trusty, G.&lt;/p&gt;
 
 &lt;p&gt;It was observed, that of all the ad-&lt;br /&gt;
@@ -10784,9 +11842,9 @@ in the following pages of this history.&lt;/p&gt;
 
 &lt;p&gt;[&lt;em&gt;To be continued&lt;/em&gt;.]&lt;/p&gt;
 
-&lt;p&gt;[9. April 1788]&lt;/p&gt;
+&lt;p class=&quot;installment-info&quot;&gt;[9. April 1788]&lt;/p&gt;
 
-&lt;p&gt;The FORESTERS,\&lt;/p&gt;
+&lt;p&gt;The FORESTERS,&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;An&lt;/em&gt; AMERICAN TALE, &lt;em&gt;being a Sequel to the History of JOHN BULL the
 Clothier.&lt;/em&gt;&lt;/p&gt;
@@ -11200,4 +12258,4 @@ descended to Robert Mason.&lt;br /&gt;
 [^71]: () Repeal of the Stamp-act, and Declaratory act, 1766.&amp;nbsp;&lt;a href=&quot;#fnref:23&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Early American Serialized Novels</name></author><summary type="html">On This Page</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Early American Serialized Novels</name></author><summary type="html">By Jeremy Belknap</summary></entry></feed>

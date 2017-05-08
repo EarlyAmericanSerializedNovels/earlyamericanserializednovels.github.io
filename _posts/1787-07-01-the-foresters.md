@@ -79,8 +79,9 @@ Wright, Lyle H. “A Statistical Survey of American Fiction, 1774-1850.” *Hunt
 ### Text 
 
 \[1. June 1787\]
+{: .installment-info}
 
-THE FORESTERS,\
+THE FORESTERS,  
 *An* AMERICAN TALE, *being a Sequel to the History of* JOHN BULL, *the
 Clothier.*  
 
@@ -373,6 +374,7 @@ same circumstances.
 \[*To be continued.*\]  
 
 \[2. July 1787\]  
+{: .installment-info}
 
 The FORESTERS, *An* AMERICAN TALE, *being a Sequel to the History of*
 JOHN BULL, *the Clothier.*  
@@ -742,6 +744,7 @@ living wherever they could find land.
 \[*To be continued.*\]  
 
 \[3. August 1787\]  
+{: .installment-info}
 
 The FORESTERS.  
 
@@ -1088,8 +1091,9 @@ quarrel between them.
 \[*To be continued.*\]  
 
 \[4. September 1787\]  
+{: .installment-info}
 
-The FORESTERS,\
+The FORESTERS  
 *An* AMERICAN TALE, *being a Sequel to the History of* JOHN BULL, *the
 Clothier.*  
 
@@ -1475,8 +1479,9 @@ shall be given, by way of digression.
 \[*To be continued.*\]  
 
 \[5. October 1787\]  
+{: .installment-info}
 
-The FORESTERS,\
+The FORESTERS,
 
 *An* AMERICAN TALE, *being a Sequel to the History of JOHN BULL the
 Clothier.*  
@@ -1663,9 +1668,9 @@ ny being said over the carcase, and
 no other epitaph than “Poh, they  
 are nothing but brutes, and where’s  
 the harm of killing them!” or in  
-rhyme thus:\
+rhyme thus:  
 
-“Tit for tat, tit for tat,\
+“Tit for tat, tit for tat,  
 “He stole my chick and I broke his back.”  
 Whatever plausible excuses might  
 have been made for these proceed-  
@@ -1845,8 +1850,9 @@ hopeful among the signs of the times.
 \[*To be continued.*\]  
 
 \[6. November 1787\]  
+{: .installment-info}
 
-The FORESTERS,\
+The FORESTERS,  
 
 *An* AMERICAN TALE, *being a Sequel to the History of JOHN BULL the
 Clothier.*  
@@ -2202,8 +2208,9 @@ roof.
 \[*To be continued.*\]  
 
 \[7. December 1787\]  
+{: .installment-info}
 
-The FORESTERS:\
+The FORESTERS:  
 
 *An* AMERICAN TALE, *being a Sequel to the History of JOHN BULL the
 Clothier.*  
@@ -2547,8 +2554,9 @@ with sorrow to the grave.
 \[*To be continued.*\]  
 
 \[8. February 1788\]  
+{: .installment-info}
 
-The FORESTERS,\
+The FORESTERS,  
 
 *An* AMERICAN TALE, *being a Sequel to the History of JOHN BULL the
 
@@ -2568,19 +2576,19 @@ separate parcels. Their names were as
 follows, beginning at the north-east, and  
 proceeding to the south-west:  
 
-Alexander Scotus, N. S.\  
-Robert Lumber, N. H.\  
-John Codline, M.\  
-Roger Carrier, R. I.\  
-Humphrey Plough-share, C.\  
-Peter Bull-Frog, N. Y.\  
-Julius Caesar, N. J.\  
----- Casimir, D.\  
-William Broad-brim, P.\  
-Frederick Mary-gold, M.\  
-Walter Pipe-weed, V.\  
-Peter Pitch, N. C.\  
-Charles Indigo, S. C.\  
+Alexander Scotus, N. S.  
+Robert Lumber, N. H.  
+John Codline, M.  
+Roger Carrier, R. I.  
+Humphrey Plough-share, C.  
+Peter Bull-Frog, N. Y.  
+Julius Caesar, N. J.  
+---- Casimir, D.  
+William Broad-brim, P.  
+Frederick Mary-gold, M.  
+Walter Pipe-weed, V.  
+Peter Pitch, N. C.  
+Charles Indigo, S. C.  
 George Trusty, G.  
 
 It was observed, that of all the ad-  
@@ -2815,8 +2823,9 @@ in the following pages of this history.
 \[*To be continued*.\]  
 
 \[9. April 1788\]  
+{: .installment-info}
 
-The FORESTERS,\
+The FORESTERS,  
 
 *An* AMERICAN TALE, *being a Sequel to the History of JOHN BULL the
 Clothier.*  

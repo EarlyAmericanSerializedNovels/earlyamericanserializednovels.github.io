@@ -42,3 +42,11 @@ ul.unstyled {
 ul.unindented {
   padding-left: 0; 
 }
+
+// This makes selected text bold and gives it a top and bottom margin of 16px.   
+
+p.installment-info {
+  font-weight: bold;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}

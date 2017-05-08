@@ -16,7 +16,9 @@ Mitchell’s three novels, *Albert and Eliza*, *Melville and Phalex*, and *Alonz
 
 As with other serialized works, *Albert and Eliza* is also composed with complex subplots. The main story is about a young woman named Eliza’s fidelity and faithfulness to her betrothed Albert. Compared to the topics surrounding Albert and Eliza, such as fidelity, sentiment, and virtue, other characters raise rather proactive issues. For example, when it is revealed at the end of the novel that Blake, one of Eliza’s admirers, had married Ms. Smith without knowing the fact that she was actually his half-sister or when Blake kills his half-brother Palmer in a duel raise the issue of incest and fratricide. Along with the complex subplots, the lapses between each installment create curiosity and anticipation of the next story which is another feature of serialization. Whereas book readers can jump right into the ending, serialization creates terms between each episode and extends the reading experience to readers. *Albert and Eliza* also has intentional breaks between installments that heighten the tension in the story.
 
-__Works Consulted__
+### Works Consulted
+
+{% capture works-cited %}
 
 Davidson, Cathy N. *Revolution and the World: The Rise of the Novel in America*. Oxford UP, 2004.
 
@@ -27,6 +29,12 @@ Giles, Paul. “Translantic currents and the invention of the American novel.”
 James Fenimore Cooper Society Website. “Isaac Mitchell: Collected Works”. James Fenimore Cooper society, <http://external.oneonta.edu/cooper/introduction/mitchell/mitchell.html>. Accessed 26 April 2017.
 
 Platt, Edmund. *The Eagle’s History of Poughkeepsie: From the Earliest Settlements 1683 to 1905.* Platt and Platt, 1905.
+
+{% endcapture %}
+
+<div class="works-cited">
+  {{ works-cited | markdownify }}
+</div>
 
 ### Text  
   

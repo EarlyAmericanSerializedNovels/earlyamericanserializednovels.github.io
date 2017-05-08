@@ -24,7 +24,9 @@ At home again in 1779, Ann produced a periodical called the *Albany Gazette* fil
 
 In *The History of Maria Kittle*, Bleecker deals specifically with mothers mourning the loss of their children and other family members in times of violence. However, by using the structure of a captivity narrative and the setting of the French and Indian War, the novel explores this theme while vilifying Native Americans rather than the British. This trend of scapegoating and demonizing Native Americans continued into the nineteenth century. Although, Bleecker herself did not live to see much peace in the newly formed United States, her words survived to comfort, entertain and challenge other citizens of the new nation. Though her novel and other work enjoyed enormous popularity in the early republic, it went out of fashion until more recent scholars went looking for alternative perspectives of American history and early examples of the American novel.
 
-__Selected Bibliography__  
+### Selected Bibliography  
+
+{% capture works-cited %}
 
 Bleecker, Ann Eliza, and Margaretta V. Faugeres. *The Posthumous Works of Ann Eliza Bleecker, in Prose and Verse. To Which Is Added a Collection of Essays, Prose and Poetical by Margaretta V. Faugeres.* New York, T. and J. Swords, 1793. <https://archive.org/details/posthumousworksi00bleerich>.
 
@@ -47,6 +49,12 @@ Rex, Cathy. "Revising the Nation: The Domesticated Nationalism of Ann Eliza Blee
 Rosenmeier, Rosamond. “Chapter 6: The Indian Captivity Narrative as Usable Past.” *Indian Captivity Narrative, 1550-1900*, Gale, 1993.
 
 Weiss, Stanley Buck. "The Dark Cloud of Jeffersonian Philanthropy: Native American Assimilation and the Critique of the Frontier Romance." *Dissertation Abstracts International*, vol. 76, no. 2, Aug. 2015. 
+
+{% endcapture %}
+
+<div class="works-cited">
+  {{ works-cited | markdownify }}
+</div>
 
 ### Text  
 

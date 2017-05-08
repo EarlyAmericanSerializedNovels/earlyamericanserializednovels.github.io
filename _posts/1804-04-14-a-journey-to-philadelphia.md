@@ -33,7 +33,9 @@ In another subplot, Charles Saunders, like protagonists in Charles Brockden Brow
 
 Shortly after its appearance in *The Philadelphia Repository and Weekly Register, A Journey to Philadelphia* was collected and published as a book by publishers Lincoln and Gleason in 1804. Included in the book was *An Interesting Narrative,* another short, anonymously printed tale. That *A Journey to Philadelphia* was collected and sold as a text so soon after its initial publication suggests its popularity.
 
-Works Consulted:
+### Works Consulted:
+
+{% capture works-cited %}
 
 Adelio. *A Journey to Philadelphia. Philadelphia Repository and Weekly Register*, 1804.
 
@@ -54,6 +56,12 @@ McMahon, Linda. “’Of the Utmost Importance to Our Country’:Women, Educatio
 “To L’ami” *Philadelphia Repository and Weekly Register,* 21 April, 1804.
 
 Waterman, Bryan. “Introduction: Reading Early America with Charles Brockden Brown.” *Early American Literature,* vol. 44, no. 2, 2009, pp. 235-242.
+
+{% endcapture %}
+
+<div class="works-cited">
+  {{ works-cited | markdownify }}
+</div>
 
 ### Text  
   

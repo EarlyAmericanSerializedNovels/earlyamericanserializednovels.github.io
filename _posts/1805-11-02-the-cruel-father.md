@@ -20,9 +20,17 @@ That *The Cruel Father* would appear in the *New-York Weekly* is somewhat surpri
 
 In serial form, this story served to entertain readers. Readers of either gender would enjoy the familiarity of the common morality tale—warning of greed, avarice, cruelty. The installments ended in the midst of moments of suspense, urging readers to buy the next installment in order to find out what happened next. The common elements and themes in the story made it a good choice for serializing, as the plotlines were recognized and familiar, helping readers easily conjecture what was coming next. The sentimentality of the story, the romance and doomed love affair would also appeal to the female readership the *New-York Weekly* aimed to serve.
 
-Sources Consulted
+### Works Consulted
+
+{% capture works-cited %}
 
 Stearns, Bertha Monica. “[Early New York Magazine For Ladies](http://www.jstor.org/stable/10.2307/24470494)” *New York History*, 14.1 (1933): 32-41.
+
+{% endcapture %}
+
+<div class="works-cited">
+  {{ works-cited | markdownify }}
+</div>
 
 ### Text  
   

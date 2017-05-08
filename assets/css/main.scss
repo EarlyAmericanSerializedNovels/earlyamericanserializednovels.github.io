@@ -15,7 +15,8 @@
 // This makes every paragraph indented, to make the site more like MLA style.
 
 .page__content p,
-.page__content p+p {
+.page__content p+p,
+.archive p {
   text-indent: $indent-var;
   img {
     margin-left: -$indent-var;

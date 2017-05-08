@@ -2585,7 +2585,7 @@ George Trusty, G.
 
 It was observed, that of all the ad-  
 venturers, those generally were the  
-*least thriving*, who received *most assist- *  
+*least thriving*, who received *most assist-*  
 *ance* from their old master. Whether  
 it was owing to their being employed  
 in business to which they had not serv-  

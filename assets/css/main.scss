@@ -50,3 +50,10 @@ p.installment-info {
   padding-top: 16px;
   padding-bottom: 16px;
 }
+
+// This makes <h4> elements appear 16px tall and have a margin of 16 points between them and the next element.  
+
+h4 {
+  font-size: 16px;
+  margin-bottom: 16px;
+}

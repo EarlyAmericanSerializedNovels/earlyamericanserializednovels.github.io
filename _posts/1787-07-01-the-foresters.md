@@ -78,7 +78,7 @@ Wright, Lyle H. “A Statistical Survey of American Fiction, 1774-1850.” *Hunt
 
 ### Text 
 
-[1. June 1787]{: .installment-info}
+\[1. June 1787\]
 
 THE FORESTERS,\
 *An* AMERICAN TALE, *being a Sequel to the History of* JOHN BULL, *the

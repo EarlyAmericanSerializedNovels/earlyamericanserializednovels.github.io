@@ -33,15 +33,11 @@ Stearns, Bertha Monica. “[Early New York Magazine For Ladies](http://www.jstor
 </div>
 
 ### Text  
-
-__The Cruel Father__  
-
-< br />
-
-__[1. 2 November 1805]__  
-
-< br />
-
+  
+\[1. 2 November 1805\]  
+  
+The Cruel Father  
+  
 THE love of money is a passion which not on-  
 ly degrades our nature, and renders it insensible  
 to those ties which unite the human race, but  
@@ -286,7 +282,7 @@ and involuntarily dropped upon his knees.
   
 (TO BE CONTINUED)  
   
-[2. 9 November 1805\]  
+\[2. 9 November 1805\]  
   
 (*Continued.*)  
   
